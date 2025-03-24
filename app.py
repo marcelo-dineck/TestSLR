@@ -61,11 +61,16 @@ with col2:
     fig2 = px.bar(chart_data2, x='Contagem', y='País', orientation='h', title="Desafios por País")
     st.plotly_chart(fig2, use_container_width=True)
 
-# Exibição dos desafios
-for _, row in filtered_df.iterrows():
-    st.markdown(f"### 🔹 {row['Title']}")
-    st.markdown(f"**Descrição:** {row['Description']}")
-    st.markdown(f"**Dimensão:** {row['Dimension']}  |  **Categoria:** {row['Category']}")
-    st.markdown(f"**Tecnologia:** {row['Technology']}  |  **Indústria:** {row['Industry']}  |  **País:** {row['Country']} ({row['Country Classification']})")
-    st.markdown(f"**Papel na cadeia:** {'Fornecedor/Comprador' if row['Customer-Provider'] == 'Yes' else 'Não especificado'}")
+# Agrupar por desafio racionalizado
+grouped = filtered_df.groupby('Title')
+
+for title, group in grouped:
+    st.markdown(f"### 🔹 {title} ({group['Article ID'].nunique()} artigo(s))")
+    st.markdown(f"**Descrição:** {group['Description'].iloc[0]}")
+    st.markdown(f"**Dimensão:** {group['Dimension'].iloc[0]}  |  **Categoria:** {group['Category'].iloc[0]}")
+    st.markdown("**Ocorrências em diferentes contextos:**")
+
+    for _, row in group.iterrows():
+        st.markdown(f"- **Tecnologia:** {row['Technology']} | **Indústria:** {row['Industry']} | **País:** {row['Country']} ({row['Country Classification']}) | **Papel:** {'Fornecedor/Comprador' if row['Customer-Provider'] == 'Yes' else 'Não especificado'}")
+
     st.markdown("---")
