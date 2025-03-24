@@ -1,0 +1,2227 @@
+﻿Country,Country Classification,Industry,Technology,Dimensions,Customer-Provider,Challenges
+Denmark,Developed,,"IOT & Cyber-physical systems, Information & Communication Technologies",,No,"-Challenges for digital interoperability: Lack of adequate and open inter-organizational data sharing format, communications, privacy and security issues, and product and order-oriented data.
+-Further empirical investigations are needed to understand the AI application in supply chain
+management
+-The MES should interconnect all components of cyber-physical systems, and there are research opportunities to
+study MES for collaborative production management Decentralized control is needed for Industry 4.0 systems,
+and research needs to investigate the logical decentralization of computing resources for horizontal
+integration
+-Seamless and effective IT integration is challenging for
+effortless access and management of distributed data | nan | nan | nan"
+Slovenia,Developed,Manufacturing Industry,Industry 4.0 in general,Technological e non-technological,No,"Technological Challenges:
+Perceived complexity of technologies: ""The lack of internal absorptive capacity may increase perceived complexity and reduce the perceived ease of use of Industry 4.0 technological factors—especially in terms of represented solutions—thus delaying an organization’s readiness for their implementation""​
+Lack of readiness for technological adoption: ""Firms in settings such as these often lack the knowledge and skills (non-technological factors) relevant for the adoption of new technologies, which reduces their ability to benefit from Industry 4.0’s technological attributes""​
+Non-Technological Challenges:
+Insufficient absorptive capacity: ""Absorptive capacity embodied in business models, organizational culture, structure, and orientation"" is critical for the adoption of new technologies​
+Organizational and cultural resistance: ""The lack of the latter [non-technological changes] may present a barrier to technology implementation and could even result in adverse eff | nan | nan | nan"
+Brazil,Developing,Startups,Industry 4.0 in general,"-Knowledge management
+-Financial
+-Process Management & Governance
+-Technological
+-Social Behaviour
+-Policy & Regulatory",No,"Knowledge management
+B01. Lack of knowledge about technology application and sustainability
+B02. Lack of knowledge about good environmental practices
+B03. Lack of skilled labor
+B04. Lack of environmental awareness and education
+B05. Lack of perception of environmental and economic gains Financial
+B06. Lack of financial resources 
+B07. High implementation and running costs Initial and operating costs can be prohibitive for some companies, particularly those working under budget constraints or in uncertain markets.
+B08. Lack of investment in digitalization for sustainability Process
+Management & Governance
+B09. Lack of leadership and management support
+B10. Lack of a responsible sector within the client
+B11. Difficulties in process adaptation | B12. Lack of cooperation and coordination between business partner
+B13. Lack of innovation capacity
+B14. Lack of integration of company areas
+B15. Lack of long-term planning
+B16. Lack of confidence in investment and risk aversion
+Technological
+B17. Lack of infrastructure for GDPL application
+B18. Difficulty in supporting and maintaining systems
+B19. Difficulties in data collection and storage 
+B20. Difficulties in data analysis and model building
+B21. Technological failures and limitations
+B22. Lack of interoperability and integration
+B23. Data Security and Privacy issues
+B24. Lack of standards and protocols
+B25. Lack of models and tools
+B26. Lack of adequate IT infrastructure
+Social Behaviour
+B34. Data sharing concerns
+B35. Lack of care for public property
+B36. Difficulties related to consumer behaviour
+B37. Corruption and lack of transparency in waste management
+B38. Fear of structural unemployment
+B39. Lack of market pressures and demands
+B40. Resistance to change
+Policy & Regulator | olicy & Regulatory (Política e Regulamentação)
+B41. Lack of government incentives
+B42. Excessive bureaucracy and taxation in the country
+B43. High cost of importing material and technologies
+B44. Low government inspection and control
+B45. Low environmental targets | nan"
+Bangladesh,Developing,Textile industry,Industry 4.0 in general,not mentioned,No,"Concern for environmental protection and sustainability
+""The negative environmental impacts of some I5.0 technologies have increased concern among the stakeholders of SCs in developing countries, which has slowed down the process of I5.0 implementation""​
+
+Scarcity of in-house talents and skilled employees
+""That lack of in-house talent and skilled workers has also hindered the adoption of modern technologies in organisations""
+
+Inadequate knowledge about disruptive technologies
+""In addition, most companies in developing countries have insufficient knowledge and understanding of automation and disruptive technologies""​(Industry 5.0 challenges…).
+
+Lack of active involvement of senior managers
+""Insufficient organisational capabilities and commitment from higher management""​
+
+Weak IT infrastructure and other facilities
+""Lack of reliable information and technological infrastructure as one of the challenges to automation for organisations in developing countries""​ | ""Insufficient investment often impedes the progress of introducing automation within local companies in developing countries""
+""Risk in data ownership and data security""
+""Market uncertainty and disruptions to employment as challenges to implementing I5.0 technologies in SCs""
+""Difficulties in the data management system""​
+""Disruptions to employment due to COVID-19""​
+""Implementation of I5.0 practices requires adequate capabilities to reshape the existing production pattern""​
+""Aversion to technological change post-COVID-19 should also be considered a challenge to automation""
+""Lack of increased preparedness after COVID-19""
+""Lack of integrated and collaborative approach""​
+""Financial support and funding (e.g., tax reduction, short loans, etc.) from investors and the government play a pivotal role in enabling sustainability in SCs"" | nan | nan"
+Italy,Developed,Manufacturing Industry,Industry 4.0 in general,,Yes,"1-Lack of Awareness for Estimating Benefits Brought by Technology
+2-Current Infrastructure Limitation
+3-High Investment for Hardware and Software
+4-High Investment for Competencies Acquire and Development
+5-Limited Commitment from Business Partners in SC
+6-Absence of Adequate Technology Provider
+7-Lack of Maturity and Reliability of the Technology | nan | nan | nan"
+Developing Countries,Developing,Manufacturing Supply chain,Blockchain,no,No,"C1-Technical and infrastructural obstacles
+C2-Financial and budgetary obstacles
+C3-Security and privacy obstacles
+C4 Unawareness of blockchain technology 
+C5-A shortage of human resources and implementation expertise/knowledge
+C6-Social-environmental barriers and energy consumption
+C7-A lack of cooperation, communication and coordination
+C8-A lack of management commitment and support
+C9-Scalability | nan | nan | nan"
+Italy,Developed,Textile industry,Augmented & Virtual Reality,not mentioned,No,"Balancing Quality vs. Lead Time:
+
+""The need to balance short lead times and elevated quality levels requires the adoption of appropriate approaches that should be integrated into companies' best practices"" (Fani et al., 2023).
+Companies struggle with defining sample sizes for quality control, as static parameters are not suitable for fast-changing environments.
+Data Utilization in Low-Tech Sectors:
+
+""The huge amount of data collected even by low-tech companies through I4.0 solutions to trace quality control outcomes remains quite often non-used, leading to the ‘rich data but poor information’ issue"" (Fani et al., 2023).
+Traditional quality control relies on fixed parameters, which do not adapt well to dynamic production environments.
+AR Effectiveness & Usability: | ""From a quantitative perspective, only for non-expert operators has a statistically significant improvement in the duration of the inspection process been noticed"" (Fani et al., 2023).
+Experienced operators did not benefit as much from AR tools as non-experienced workers.
+The usability of AR devices could be improved, as handheld tablets limit hands-free operation.
+Supplier Performance and Quality Assurance:
+
+""Recurrent defects can be highlighted to the related supplier, suggesting the introduction of improvement actions in their production process in order to reduce their occurrence"" (Fani et al., 2023).
+The study suggests that data mining should be used to guide supplier evaluations and define corrective actions.
+Technology Adoption Barriers:
+
+""The main limitation of the proposed application is related to the use of a device, e.g., a smartphone or tablet, that needs to be held by the operator"" (Fani et al., 2023).
+The lack of hands-free AR solutions affects efficiency.
+Companies may | nan | nan"
+Global,Global,Manufacturing Industry,Digital Twin,"-System integration
+-Security
+-Performance
+-Organizational
+-Data Quality
+-Environmental",No,"-System integration
+Lack of standards and acknowledged compatibility
+Lack of structured data model and coherent data formats
+-Security
+Cyber-security and data protection
+Lack of data transparency
+Lack of intellectual property protection
+Necessity to share the DT among multiple application
+systems involving multiple stakeholders
+-Performance
+Lack of high-performance real-time communication
+systems
+Complexity in ensuring the correct timeliness of data
+Lack of pervasive data-gathering technologies
+Lack of high-performance data storage and analysis
+Lack of interaction systems between physical and virtual
+environments
+Weak Internet-enabled connections and high latency
+problems
+Lack of alternative connection types
+Lack of reliability and robustness
+Lack of flexibility and modularity
+Lack of high computation capability and
+computationally fast models
+Complexity in ensuring scalability
+Complexity in virtualizing, updating, and predicting
+complex systems
+Lack of standards in modelling | Organizational
+High bureaucracy
+Cultural inertia
+Lack of necessary skills
+Requirement to set realistic expectations, trust, and value propositions
+Purchase of expensive sensors
+Purchase of expensive software modules
+Purchase of expensive data acquisition and storage systems
+Necessity for standardization and simplification of processes and lack of processes
+representation or a lack of description of the physical behaviour of critical machines
+Complexity in data management
+Long-time implementation process
+Data Quality
+Lack of data quality, completeness and accuracy
+Low data availability
+Environmental
+Uncertainty of technological needs
+Lack of practical implementations
+Lack of literature maturity
+Different development of required technologies
+Difficulty in software selection
+Lack in education on the topic
+Lack in homogeneity in manufacturers’ machines and software | nan | nan"
+Indonesia,Developing,"Automotive Sector, Cosmetics, Electronics Manufacturing Field, Food and beverage manufacturing, Oil and gas, Textile industry",Industry 4.0 in general,,No,"Unclear IR 4.0 (UIR), 
+Higher-risk investment (HrI),
+Insecure data sharing (IDS),
+Lack of expertise (LE),
+No incentive (NI), | nan | nan | nan"
+Global,Global,Manufacturing Supply chain,Blockchain,"Technological:
+Heavy investment in infrastructure
+Complexity
+Security challenge
+Scalability
+Non-admission of technology
+Accessibility of technology
+The negative perception toward BC
+Immutability challenge
+Immaturity",No,"TOE Dimensions - Barriers and Explanations
+
+Technological
+Heavy investment in infrastructure:
+“Despite SMEs’ financial constraints, BC adoption needs heavy investment in software and infrastructure, as insufficient infrastructure leads to failure in implementation.”
+
+Complexity:
+“BC is more complicated than traditional systems, and the internal knowledge of firms should be improved.”
+
+Security challenge:
+“Though security is one of the promising characteristics of BC in SCM, it is also a source of uncertainty because of security challenges related to privacy concerns, the trade-off between security and performance, cybersecurity issues, and threats.”
+
+Scalability:
+“Scalability is a technical challenge for SCMs. However, according to the expected transactions’ speed, volume, and tolerated confirmation, latency could act as a determinant for SMEs to use public or private BC.”
+
+Non-admission of technology:
+“There are various reasons for hesitation in acceptance BC by different stakeholders | Accessibility of technology: 
+the Internet bandwidth, IT infrastructure, and basic knowledge about the technology make it hardly accessible, especially for SMEs which are generally deprived of these items.
+
+The negative  perception toward BC:
+Immaturity and security challenges impose negative perceptions toward BC technology.
+
+Immutability challenge: 
+Immutability is a two-sided feature of BC. If an SME seeks a more flexible system toward human errors, BC is not a good choice.
+
+Immaturity""
+Immaturity of BC refers to challenges like scalability, interoperability,
+latency, usability, storage large size of blocks, and dealing with a large
+number of transactions. | nan | nan"
+Jordan,Developing,Manufacturing Supply chain,Industry 4.0 in general,,No,"Cybersecurity challenges
+Lack of digital strategy
+Lack of infrastructure: no funds to build a digital infrastructure
+Personnel resistance to adopt new technologies
+High investment requirements
+Data management and quality challenges such as big data
+Uncertainty of economic benefits
+Low maturity level of technology
+Lack of adequate skills
+Job disruptions: Changing the structure of jobs | nan | nan | nan"
+Sub-Saharan Africa,Underdeveloped,Agricultural industry,Industry 4.0 in general,"environmental, economic, technological, and cultural",Yes,"Technology: ""Not enough data in social media to take advantage of Big Data analytics.""
+""There is no presence of local suppliers’ databases, so it is impossible to use Big Data analytics in procurement and lack of information sharing with the public regarding technologies.""
+""Specific technologies are not reliable for the agricultural industry, like IoT and drones, are not reliable for soil moisture testing."" 
+""Internet services are not reliable, so it is not possible to use the Cloud, and the internet providers do not receive penalties for poor services.""
+
+Economic: ""The economy is protected as there is not much competition or entrance of disruptive technology that causes companies to upgrade their technologies.""
+""It is very costly to implement a cloud because of the technological infrastructure required. Issues in accessing foreign resources, whether they are technologies or knowledge, particularly financial transactions, are an issue. Thus, it is hard to use, for
+example, Cloud-based | The availability of young people compared to
+developed countries cause the cost of labour to be low,
+thus discouraging the introduction of specific
+technologies, e.g., robots.
+Some technologies cannot be used as they increase the
+costs for mostly low-income consumers (e.g., using
+RFID for batch management or 3D printing for pasta).
+Psychological resistance to change to new
+technologies. Many people have a fear of technology
+as they think that they will lose control, and they do
+not see the potential of the technology.
+There is no presence of local suppliers’ databases, so it
+is impossible to use Big Data analytics in procurement
+and lack of information sharing with the public
+regarding technologies.
+Specific technologies are not reliable for the
+agricultural industry, like IoT and drones, are not
+reliable for soil moisture testing.
+Farm analytics software is tough to be renewed or
+upgrade because of the difficult relations with foreign
+countries. Therefore some technologies in the
+comp | nan | nan"
+Developed countries,Developed,Vinyl flooring manufacturing,"Big Data, Cloud & Edge Computing, Condition Monitoring, Human-Machine-Interaction, IOT & Cyber-physical systems, Information & Communication Technologies",not mentioned,No,"Handling large volumes of data generated by manufacturing processes
+Storage and Processing Constraints: Edge computing is limited by its capacity for storage and processing power, requiring optimization techniques
+Integrating human decision-making with cyber-physical systems in a way that enhances both performance and efficiency
+Ensuring low-latency, real-time data processing | nan | nan | nan"
+Malaysia,Developing,,IOT & Cyber-physical systems,,No,"cybersecurity 
+Institutional and Legal Instruments: “The current regulation is still lacking to cater for new technology and devices... there needs to be a balance between innovations that we want to spur and the data that needs to be exposed”
+Adaptive Capabilities and Skilled Staff:“The trend is moving so fast; the regulators have the challenge to keep up with the technology,” 
+Priority Setting, Enforcement, and Transparency: “Cybersecurity is the least of their investment, the focus is more on operating the system”​
+Consumer Education and Smart Partnerships:  “There needs to be a partnership between government, industry and civil society to empower people”
+Accountability of Regulation and Responsibility of Business:
+“Businesses have to think of ways in which they can ensure that consumer data is protected”​
+Standards Setting and Compliance: “Government needs to have standards and specifications in place to ensure security at all points”​ | nan | nan | nan"
+South Asia,Underdeveloped,Manufacturing Industry,Industry 4.0 in general,"Technological, Economical, Regulatory, Organizational",No,"Technological
+C1-Technology Availability and Compatibility
+C2-Low Maturity of Technology and Seamless Integration
+C3-Information Technology Infrastructure
+C4-Cyber-Security and Privacy
+C5-Capability to Manage Big Data
+Economical
+C6-Requirement for High Initial Investment
+C7-Uncertainty of Return-On-Investment
+Regulatory
+C8-Availability of Reference Architecture and Standards
+C9-Government Support and Legal Issues
+C10-Complexity in Supply Chain Integration and Coordination
+C11-Employee Fear and Resistance to Change
+Organizational
+C12-Education and Training Programs
+C13-Knowledge, Awareness, and Competence of Industry 4.0
+C14-Management Commitment and Leadership
+C15-Availability of Skilled Workforce
+C16-Organization Structure and Culture | nan | nan | nan"
+India,Developing,Electronics Manufacturing Field,Blockchain,"1-Managerial Challenges:
+2-Signatures, cryptograph and algorithms challenges:
+3-Decentralization and smart contract related challenges:
+4-Organizational challenges:
+5-Standardization and implementation challenges:",No,"Managerial Challenges:
+C1 Higher Implementation cost
+C2 Difficulty in hardware and software upgradation
+C3 Lack of management support and awareness
+C4 Lack of continuous improvement culture
+C5 Lack of sustainability practices
+C6 Lack of effective collaboration
+Signatures, cryptograph and algorithms challenges:
+C7 Complicated business models
+C8 Privacy protection
+C9 Quantum attacks
+C10 Black box effect and efficiency
+C11 Lack of system resiliency
+C12 Retrieval on encrypted data
+Decentralization and smart contract related challenges:
+C13 Risk management and fraud detection
+C14 Twinning blockchain with
+other systems
+C 15 Multi-chain
+synchronization
+C16 Lack of effective self-
+adaptive coordination
+C17 Lack of middleware
+solutions
+Organizational challenges:
+C18 Lack of employee training
+programs
+C19 Lack of communication
+between departments
+C20 Lack of awareness about
+sustainability tools
+C21 Lack of consideration in
+human factors
+C22 Lack of resistance in
+culture change
+Standardization an | 23:Ineffective sustainability measurement systems.
+24:Lack of sustainable energy adoption.
+25:Complexity within sustainable supply chain practices
+26:Lack of standardized tools and reference architecture
+27: Lack of updated auditing standards
+28:High energy consumptions due to activities | nan | nan"
+Malaysia,Developing,Various,"Human-Machine-Interaction, Information & Communication Technologies",,Yes,"Team-Related Challenges:
+""knowledge gap between technical or other teams and the project manager."" 
+""inability to establish an efficient communication channel between parties.""
+""The inability to establish an efficient communication channel between parties. This may be a symptom of a lack of clear communication between the parties and a failure to identify the team’s knowledge gap""​
+IT Tools Challenges :
+""The project managers lack IT support""
+Skills Challenges:
+""in-depth knowledge and general skills in specific disciplines,"" such as risk management and stakeholder management. This often results in ""insufficient stakeholder involvement,""
+""Lack of stakeholder involvement in a project or scope development may be a cause for concern""​ | nan | nan | nan"
+Portugal,Developed,Textile industry,"AI, Condition Monitoring, Digital Twin, IOT & Cyber-physical systems","Technical , Human, Environmental",No,"Integration and Interoperability:
+""Ensuring the synchronization between virtual and real shop floor entities"" is identified as a critical technical issue, requiring ""higher degrees of synchronization"" to avoid discrepancies between digital twins and physical systems​(Holistic Security and S…).
+ ""The lack of consensus on unified concepts, standards, and procedures complicates implementations""​
+Environmental 
+Customer complexity, in this case :""real-time deviations in energy consumption"" 
+Human Challenges:
+Monitoring Human Behavior:
+""stress, fatigue, and lack of attention""
+""early stage of development"" with significant room for improvement in ""validation of models and collection of real worker data""​
+human intention (accidental or malicious) is highlighted as critical to avoiding ""unexpected and unpleasant issues""
+""Technically speaking, many companies do not have the expertise or resources required to effectively implement digital twins."" | nan | nan | nan"
+Jordan,Developing,Various,Industry 4.0 in general,not mentioned,No,"lack of knowledge (know-how), 
+lack of standards, 
+lack of data protection, 
+lack of qualiﬁed workforce, 
+lack of awareness of the importance of Industry 4.0, 
+lack of ﬁnancial resources, 
+and lack of governmental support | nan | nan | nan"
+Global,Global,Manufacturing Industry,"AI, Cloud & Edge Computing, Condition Monitoring, IOT & Cyber-physical systems",not mentioned,No,"Competition: “Although data sharing among factories can lead to more robust predictive models, enterprises are typically reluctant to exchange data because they fear losing their competitive edge”​
+
+Technological design and platform service challenges: “Do not have the capability to provide data efficiently and effectively” or “lack the internal technology to integrate data from various sources or utilize advanced analytical methodologies”​
+
+Data management: “It can be difficult for companies to manage data in a way that makes quick automated data access due to a lack of internal capabilities needed to draw data from internal applications”​
+
+Culture and mindset challenges: “The creation of new value propositions relies on the ability to share data across bigger industrial ecosystems that include participants with limited trust in each other""
+
+Ontological needs: “All participants must agree on a common ontology or language” to ensure that shared data is “easy to interpret and integrate | nan | nan | nan"
+Turkey,Developing,Food and beverage manufacturing,Blockchain,"Technologic (T)
+Organizational(O)
+Economic (E)
+Social (S)",No,"Lack of technological development (T1)
+Limited information about infrastructure (T2)
+Lack of privacy risk (T3)
+Scalability (T4)
+Forking (T5)
+Difficulties in payment channel challenges (T6)
+Information sharing obstacles (O1)
+Lack of tea SCM policies (O)
+Lack of governmental commitment (O3)
+Lack of industry involvement (O4)
+High operational cost (E1)
+High investment cost (E2)
+Lack of financial subvention (E3)
+High delay cost in transmission (E4)
+Lack of research and development units (S1)
+Nature of tea SC difficulties (S2)
+Unregistered producers (S3)
+Uneducated/unskilled producers (S4)
+Lack of technological adaptation (S5)
+Limitation of new rules acceptance (S6) | nan | nan | nan"
+India,Developing,Electronics Manufacturing Field,"Condition Monitoring, IOT & Cyber-physical systems, Information & Communication Technologies","Technological
+Organizational
+Environmental
+Social
+Economic",No,"1. Technological Barriers:
+Compatibility issues (B1): 
+Integration difficulties between cyber-physical components.
+Shortage of resources (B2): 
+Lack of technical resources needed for adoption.
+Data security and data protection (B3): 
+Vulnerabilities leading to data breaches.
+Lack of standards and reference architectures (B4): 
+Incompatibility due to absence of global standards.
+2. Organizational Barriers:
+Lack of leadership and top management commitment (B5): 
+Absence of support from senior management.
+Fear of success (B6):
+ Concerns about delayed return on investment.
+Lack of futuristic outlook (B7):
+ Missing vision, roadmaps, and strategies.
+Resistance to adopt (B8):
+ Lack of expertise and unclear benefits causing friction in adopting technologies.
+Need for skills enhancement (B9): 
+Need for workforce training to develop competencies for Industry 4.0.
+Organizational and process changes (B10): 
+Need for re-evaluation of industrial procedures. | 3. Environmental Barriers:
+Lack of awareness among supply chain stakeholders (B11) :
+Selection of suitable supplier is essential to have a better understanding and common goals to produce preferred sustainable manufactured goods
+Market competition (B12): Firms that lack appropriate management related to sustainable processes may lose buyers who have inclination and preference for such products
+Market uncertainty (B13):
+Availability of sustainable products is uncertain, especially when the vision and planning are not clearly drafted, inhibiting the market for prospective consumers.
+Supplier’s inflexibility to shift towards sustainability (B14): Rigidness of contractors and inhibitions towards adoption of I4 and related technologies. | 4.Social 
+Lack of consumer’s awareness (B15):
+Consumer unawareness and lack of knowledge for sustainable practices used while manufacturing a product and its related activities such as raw materials used.
+Lack of governmental rules and regulations (B16):
+Dearth of government policies, directions, and guidelines on I4, manufacturing firms are sceptical about plausible consequences.
+Employment disruptions (B17): 
+This is defined as the unrest in the employment owing to the adoption of emerging technologies that demand the need for learning and
+automation of process.
+Lack of green initiatives (B18): 
+Minimum usage of packaging material reduces material handling and transportation costs. The industry is responsible for providing waste collection and other processing facilities, which if not handled carefully can harm environment conditions. | Legal and contractual uncertainty (B19): 
+Questions related to legal ownership of the process and the legal responsibility for inaccuracies with manufacturing need to be resolved appropriately.
+Regulatory compliance (B20):
+Data from various sources are captured using different devices, which makes the data vulnerable to attacks and needs intervention from legal experts.
+Economic High implementation cost (B21):
+This encompasses all costs including procurement of technological installations, mechanical equipment, and engineering services. It also includes cost related to labour and  aintenance
+costs for the equipment maintenance. The investors must consider the investment costs, which is the widely used economic criteria to assess sustainable practices in any industry/
+sector."
+Developed countries,Developed,Manufacturing Industry,Industry 4.0 in general,"Economic and Legal, Workers, Organization, Technology",No,"Economic and Legal
+BTA1: ""High cost of implementation and raw materials""
+BTA2: ""Regulatory compliance factors""​
+BTA3: ""Legal, privacy and contractual factors""​
+Workers
+BTA4: ""Employment disruptions""​
+BTA5: ""Need for enhanced skills""​
+BTA6: ""Workers resistance""
+BTA7: ""Psychosocial factors""​
+Organization
+BTA8: ""Organizational and process changes""​
+BTA9: ""Security and privacy factors""​
+BTA10: ""Integration and compatibility factors""​
+Lack of Training and Information
+BTA11: ""Lack of knowledge management systems""​
+BTA12: ""Lack of clear comprehension about I40 T""
+Technology
+BTA13: ""Lack of standards and reference architecture""​
+BTA14: ""Lack of Internet coverage and IT facilities""​ | nan | nan | nan"
+Italy,Developed,Manufacturing Industry,"Human-Machine-Interaction, Robotics",,No,"Technical Feasibility (complexity):
+“the task is not executable by an industrial collaborative robot due to technical reasons,” ""high dexterity,"" “particularly unfavorable conditions for low-cost collaborative automation”​ | nan | nan | nan"
+Developed countries,Developed,Manufacturing Industry,IOT & Cyber-physical systems,"Ecosystem
+Technology
+Business
+Skills
+Data",Yes,"Ecosystem Challenges
+Gaps in collaboration
+""The cooperation and collaboration among organisations for exploiting common opportunities remain limited, requiring rules and frameworks to facilitate these relationships""​(The D-BEST Reference Mo…).
+
+Difficulties in governance
+""The definition of governance structures and rules on intellectual property and internal/external collaborations are complex but critical to ensure ecosystem sustainability""​(The D-BEST Reference Mo…).
+
+Technology Challenges
+Lack of infrastructure accessibility
+""Providing access to infrastructure and technological platforms remains a challenge, particularly for SMEs with limited resources""​
+
+Validation of emerging technologies
+""Supporting the validation and exploration of emerging technologies through prototyping and MVPs remains underutilised""
+Skills Challenges
+Skills gap in digital transformation
+""Human capabilities maturity in Industry 4.0 is often lacking, with significant gaps between existing skills and those r | nan | nan | nan"
+Brazil,Developing,Agricultural industry,IOT & Cyber-physical systems,,No,"Perception of Value:  ""Low perceived trialability attributes and complexity beliefs reduced likelihoods of adoption"" 
+Trialability Barriers: Agriculturalists reported challenges in testing IoT innovations before adoption.
+""Agriculturalists reported < 50% agreed the timeframe to acquire and test IoT smart agriculture was adequate"" | nan | nan | nan"
+India,Developing,Automotive Sector,Additive Manufacturing,"Environment and sustainability, Process planning, Pre-processing, Processing, Post-processing, Materials and design, and Technology.",No,"1. Environment and Sustainability (ES)
+2-Improper energy management (ES4): ""Energy management in WAAM is required due to the periodic and high heat input of the arc on the printed 
+5-Availability and quality of data for life cycle assessment (ES6): ""Availability and quality of data for life cycle assessment of WAAM process through real-time monitoring ensures sustainability.""
+2. Process Planning (PP)
+1-Responsiveness to demand for customization (PP1): ""The concept of Industry 4.0 and WAAM can be integrated to improve the responsiveness to the demand for customization.""
+2-Large-scale production challenges (PP2): ""WAAM is not fully capable of producing large-scale parts due to a lack of integration with I4.0-based design software."" | 3-Inefficient platform and data management (PP3): ""Platform and data management improves the efficiency of WAAM in I4.0.""
+4-Migration of virtual machines (PP4): ""Migration of virtual machines denotes WAAM and I4.0 integration over the cloud with real-time monitoring and decentralized production.""
+5-Shortage of appropriately trained workers (PP5): ""Trained workers need to monitor the automated WAAM system.
+Ensuring safe working environments (PP6): ""As WAAM and I4.0 integration possesses several | 7-Worker safety (reducing accidents) (PP7): ""Worker safety is the challenge in WAAM and I4.0 integration.""
+4. Processing (Pr)
+7. Technology (T)
+Poor programming strategy (T1): ""Poor programming strategies impact the efficiency of WAAM and I4.0 integration.""
+Inter-portability (T5): ""Inter-portability is an issue in I4.0 systems during integration with WAAM.""
+Cyber-attacks (T6): ""Cyber-attacks represent a significant threat to I4.0 and WAAM integration systems.""
+Loss of reliability (T7): ""Loss of reliability impacts the smooth integration of WAAM with I4.0 technologies."" | Data integrity issues (T8): ""Data integrity issues represent technological risks in I4.0 and WAAM systems.""
+Operational security (T9): ""Operational security is critical for the success of WAAM and I4.0 integration.""
+Seamless integration of new technologies on shop floor (T10): ""Seamles
+ntegrating new technologies into existing systems (T11): ""Integrating new technologies into existing systems represents a challenge for the smooth adoption of WAAM and I4.0."""
+Poland,Developed,"Automotive Sector, Furniture manufacturing, Manufacturing Industry",Industry 4.0 in general,not mentioned,No,"Lack of awareness of I4.0 technologies
+""lack of awareness of Industry 4.0 technologies"". ""at this moment, it is a lack of knowledge and general awareness of I4.0 technologies that is most problematic""​
+
+Lack of financing and investment risk
+""lack of financing and investment risk"".  ""firms in clusters often face difficulties financing these innovations, facing high costs of buying and implementing technologies""​
+
+Lack of skills and digital competencies
+ ""lack of skills and digital competencies""  ""a key barrier is the lack of digital skills among employees, which can seriously hamper the adoption of Industry 4.0 technologies""​
+
+Reluctance to changes among workers (culturally related barriers)
+ ""reluctance to changes among workers""  ""reluctance to changes among workers can seriously hamper SMEs’ Industry 4.0 adoption""​ | nan | nan | nan"
+India,Developing,"Automotive Sector, Construction, Electronics Manufacturing Field, Manufacturing Industry, Pharmaceuticals",Industry 4.0 in general,not mentioned,No,"Common barriers: 
+1-Resistance to change
+2-Problems related to coordination and collaboration
+3-Unclear economic benefits
+Unique barriers: 
+Firm 1 (Infrastructure: Infrastructure Project Management)
+
+Lack of government policies and support
+Lack of digital infrastructure
+Firm 2 (Infrastructure: Infrastructure Equipment Manufacturing)
+
+Lack of expertise
+Lack of digital infrastructure
+Firm 3 (Manufacturing: Automotive)
+
+Complex network systems
+Poor data quality and management
+Firm 4 (Manufacturing: Tier-I Automotive Part Supplier)
+
+Lack of financial support
+Lack of expertise
+Firm 5 (Railways: Undercarriage Manufacturer)
+
+Lack of financial support
+Lack of digital infrastructure
+Firm 6 (Railways: Steel Company for Semi-High-Speed Railways)
+
+Lack of research and development
+Lack of digital infrastructure
+Firm 7 (Science and Technology: Biomedical Equipment Supplier)
+
+Legal issues
+Lack of digital culture | Firm 8
+- Lack of digital vision and strategy
+- Lack of digital culture
+Firm 9
+- Data privacy and security issues
+- Lack of digital vision and strategy Lack of
+Firm 10
+- Data privacy and security issues
+- Complex network system | nan | nan"
+Australia,Developed,Medical Manufacturing,"Big Data, IOT & Cyber-physical systems",not mentioned,No,"lack of technical expertise, 
+high implementation costs, 
+and difficulty in selecting appropriate IoT solutions | nan | nan | nan"
+India,Developing,"Automotive Sector, Manufacturing Industry",Industry 4.0 in general,,No,"Cyber-physical security issues in
+manufacturing systems (CPSB1)
+Lack of skilled manpower (CPSB2)
+Lack of awareness about CPS (CPSB3)
+Lack of standardization of technologies in
+CPS (CPSB4)
+Interlinking and interoperability difficulties
+across multiple platforms (CPSB5)
+Difficulty in developing real-time linkage of
+smart factory and physical production
+(CPSB6)
+Lack of robustness with respect to
+environmental conditions in automotive
+environment (CPSB7)
+Data rate issues to support high speed
+applications (CPSB8)
+Dependability issue with monitoring and
+actuator infrastructure (CPSB9)
+Lack of accuracy in CPS applications
+(CPSB10)
+Lack of minimal energy consuming CPS
+applications (CPSB11)
+High cost of sensors and actuators to develop
+CPS application (CPSB12)
+Difficulties in implementing CPS using wired
+network (CPSB13)
+Lack of cooperative production systems
+(CPSB14)
+Human-machine2 symbiosis (CPSB15)
+Lack of modularization and servification of | Lack of modularization and servification of
+CPS (CPSB16)
+Conversion of information analytics and CPS
+data to actionable information (CPSB17)
+Difficulties in designing CPS infrastructure
+(CPSB18) | nan | nan"
+India,Developing,"Agricultural industry, Food and beverage manufacturing","Industry 4.0 in general, Information & Communication Technologies",,No,"MV1 Fear of embracing the radically innovative I4.0 approach. (Radically Innovative approach)
+MV2 Weak enabling by top management and parent organisation. (Top Management support)
+MV3 Lack of visibility and success stories of I4.0 deliverables. (Limited visible deliverables)
+MV4 Incompatible resources - financial, human, digital, physical, educational and informational.
+(Incompatible resources)
+MV5 High cost of transition to the new I4.0 technology. (Transition cost)
+MV6 Lack of economic benefits and uncertain return on investment (ROI)
+(Apprehensive perceived benefits)
+MV7 Cyber security and reliability of IT systems for real-time operation. (IT capability)
+MV8 Challenges in coordination/alignment of supply chain actors. (Business-partner alignment challenges)
+MV9 Lack of subsidies and tax-incentives by the government. (Weak government pull)
+MV10 Fear of a plethora of rules/riders attuned to large companies. (Procedural complexities) | nan | nan | nan"
+Portugal,Developed,Automotive Sector,Industry 4.0 in general,not emntioned,No,"Absence of a defined I4.0 strategy:
+""The absence of a defined I4.0 strategy, lack of indicators to monitor the state of implementation, and the lack of I4.0 investment are the main factors that limit a higher final readiness level on the logistics department""​
+Lack of investment in Industry 4.0: 
+""The start of investment to be carried out at the level of I4.0 are activities related to the same dimension (Strategy and Organization)""​
+Limited ICT functionalities:
+""Another factor that penalizes the final level on this department, is related to the lack of more ICT-based functionalities""​
+Infrastructure adaptability:
+""The fact that the infrastructure features are poorly adaptable and scalable also limits a better final assessment""
+Lack of data-driven services: 
+""The lack of services provision based on data collection presents itself as the field with the most impact as an opportunity for improvement""​ | nan | nan | nan"
+Australia,Developed,"Food and beverage manufacturing, Manufacturing Supply chain",Industry 4.0 in general,not mentioned,No,"Lack of collaboration:
+""Several respondents (90%) perceived that the lack of SC collaboration is a critical barrier to implement supply chain 4.0. In this view, five respondents, including a food and beverage manufacturer, a farmer, a packaging firm and two retailers lamented that each firm in the SC works for its individual interest and accomplishment of performance objectives. Such fragmentation in SC, where most firms have conflicting goals, could preclude availability of resources and capabilities needed to implement supply chain 4.0.""
+
+Organizational inertia:
+""Organisation inertia, such as resistance to change, lack of motivation, skills and strategic commitment, appeared the second critical barrier to implement supply chain 4.0. Four respondents including a manufacturer, a processor and a farmer believed that the underlying reasons for current organisational inertia are fear among the staff about job loss, lack of trust and being connected to old work style."" | Lack of awareness:
+""Numerous respondents (80%) indicated the lack of awareness about the exact benefits of digital technologies and thereby unwillingness to take part in supply chain 4.0 initiative. They argued that information on cost vs benefits of new technologies is yet elusive, therefore it is difficult for them to take any risk of huge investment in such technologies. Some respondents were unclear about the data security and safety challenges associated with the implementation of digital technologies."" | nan | nan"
+India,Developing,Manufacturing Industry,Industry 4.0 in general,,No,"Lack of °exible organizational structure (C1)
+Insu±cient funds for implementation of Industry4.0 (C2)
+Inadequate government support (C3)
+Poor IT infrastructure (C4)
+Lack of comprehensive broadband connections (C5)
+Risk of loss of con¯dential information (C6)
+Una®ordable technology (C7)
+Lack of awareness of technology (C8)
+IT training for employees and owners (C9)
+Fear of unemployment (C10)
+Increase in mental illness (C11)
+Risk in estimating the ¯nancial pro¯t/loss (C12) | nan | nan | nan"
+United States,Developed,Manufacturing Industry,Industry 4.0 in general,,No,"Cybersecurity-“the most critical barrier”, ""concern about the possibility of data loss and taking control of the production process as a result of cyber-attacks""​
+Low level of automation and robotization
+Investment risks in advanced digital technologies: ""high risk of investment in advanced (digital) technologies""
+Lack of business models: ""absence of business models for the Industry 4.0 environment""
+Low level of employee qualifications: low level of employee qualifications"" | nan | nan | nan"
+United States,Developed,Construction,Industry 4.0 in general,,No,"Cost of implementation
+Resistance to change
+Lack of skilled labor
+Unclear benefits and gains
+Lack of investment in research and development (R&D)
+Fragmented and project-based nature of the industry
+Lack of standardization
+Data protection and cybersecurity
+Legal and contractual issues​
+. | nan | nan | nan"
+Denmark,Developed,Food and beverage manufacturing,"Condition Monitoring, IOT & Cyber-physical systems",,No,"unclear business case for the technology implementation.
+perceived a negative business case due to high cost in Short-term | nan | nan | nan"
+India,Developing,Automotive Sector,Industry 4.0 in general,"1. Process Challenges:
+2. Human Resource Challenges:
+3. Financial Challenges:
+4. Collaboration Challenges:
+5. Technological Challenges:
+6. Security Challenges:
+7. Leadership Challenges:",No,"Process Challenges:
+Lack of digital standards, norms, and certifications.
+Lack of analytical and predictive-driven production thinking.
+Setting priority among the objectives is a dilemma attributed to the limited resources.
+Lack of lean and flexible communication structure within the organization.
+Lack of risk management tools concerning the digital transformation.
+Overconfidence, poor procedure enforcement, and lack of control.
+Uncertainty, feedback cycles, and dynamics.
+Lack of data, hard to collect and analyze, that can be employed to provide better support on maintenance decision-making.
+Automation suppliers need to continuously cut down the time it takes to produce models for process simulation and optimization solutions as well as tuning of controllers​
+2. Human Resource Challenges:
+Lack of digital culture and training.
+Insufficient talent.
+Difficulty in finding human talent with the capacity to develop analytical algorithms. | Participants lack the ability to acquire the information or the experience from the outside of the firm especially in the early phase of
+the implementation
+Uncertainties and fears among employees in implementation of digitization
+Employees within my organisation lack enough resources and capacities for the digital transformation
+Employees within my organisation do not have the appropriate capabilities for the digital transformation
+3-Financial challenges
+Unclear economic benefits and digital investments
+High financial investment requirements
+4-Collaboration challenges
+Business partners are not able to collaborate around digital solutions
+Difficulty to establish a culture of trust with business partners | 5 Technological challenges:
+Slow expansion of basic infrastructure technologies
+Challenge in transforming current infrastructure
+Difficulty in choosing appropriate technologies to align with the business objectives
+Existing infrastructure within my organisation to handle the digital transformation
+The future automation needs to allow more open interfaces for value-adding components and ideally provide one single data source
+that is shared among all players
+Voluminous data are captured in different formats; therefore, analytics is required to analyze data and to retrieve information as per
+user-readiness
+Infrastructure is required to integrate the heterogeneous devices/components in automation systems
+Smart devices are required to communicate in Industry 4.0 environment to reduce the human intervention | 6-Security challenges:
+Unsolved questions around data security and data privacy in connection with use of external data
+Concerns around lack of control over your company’s intellectual property
+Industry 4.0 maintains the network across the value chain; therefore, security vulnerability is high in attacking the system
+7-Leadership challenges:
+Lack of a clear digital operations vision and support
+Poor leadership style of top management
+Lack of leadership management within organization that can support “creative freedom” for creativity and innovation
+Lack of clear digital strategy"
+Malaysia,Developing,"Automotive Sector, Chemicals, Construction material, Manufacturing Industry, Medical Manufacturing, Pharmaceuticals, Plastic manufacturing, Various",Industry 4.0 in general,Ecosystem Factors and Challenges,No,"Getting the right people – Difficulty in recruiting skilled personnel to work with new technologies.
+Lack of funding – Financial limitations hindering the implementation of Industry 4.0.
+Technical challenges – Technical difficulties related to implementing new technologies.
+Lack of knowledge – Insufficient knowledge about Industry 4.0 technologies.
+Training operators – The need to train operators to handle new technologies.
+Changing people’s mindset – Resistance from workers in accepting technological changes, often due to fear of job loss.
+Lack of one-stop centre – The absence of centralized services or resources to guide companies through the digital transformation process is a barrier because it makes it more difficult for firms to access all the necessary support in one place.
+
+Lack of info-sharing platforms – The absence of platforms for sharing knowledge and experiences about Industry 4.0 implementation is another challenge, as it limits the ability of firms to learn from each ot | Ecosystem factors – ""Service providers are not fully confident about their solutions. They are not fully equipped and depend on someone else.""
+""It would be good if all the services and support can be provided by one agency or one-stop centre so that we can get all the information at one stop."" (p. 459) | nan | nan"
+India,Developing,Manufacturing Industry,Industry 4.0 in general,,No,"1. Lack of understanding and knowledge (C1)
+2. Inadequate digital culture (C2)
+3. Employee flexibility is required to learn and adapt (C3)
+4. Implementation cost (C4)
+5. Virtualisation and dynamic Integration (C5)
+6. Integration of physical systems with cyber systems
+(C6)
+7. Lack of proper global standards and reference archi-
+tecture (C7)
+8. Uniform standards for tools and equipment, systems,
+languages, networks, data services and reference archi-
+tecture like design and selection (C8)
+9. Quick reconfiguration of manufacturing systems,
+assembly systems, inspection and material handling sys-
+tems (C9)
+10. Real-time full data sharing and monitoring among
+various units, customers, suppliers, logistics and a few
+selected data sharing with other industries (C10)
+11. Government policies and support (C11)
+12. Data and Information security (C12)
+13. Privacy protection (C13)
+14. Clearly defined investment returns and economic benefits of digital investment (C14) | 15. Uncertainty in the interests of industry 4.0 (C15)
+16. Several complex legal issues (C16)
+17. Lack of Integration of technology (C17)
+18. Data quality and big data (C18) | nan | nan"
+India,Developing,Automotive Sector,,not mentioned,Yes,"Scarcity of dedicated suppliers (F1)
+Proper handling of data interfaces (F2)
+Lack of understanding of the possible benefits (F3)
+Financial constraints (F4)
+Concern to data security (F5)
+Inadequate top management commitment (F6)
+Employees’ lack of training (F7)
+Fear of change/resistance (F8)
+Constraints of technology (F9) | nan | nan | nan"
+India,Developing,Manufacturing Industry,Industry 4.0 in general,"1-Management and Strategy based barriers (MSBB),
+2-Technological barriers (TB),
+3-Organizational barriers (OB),
+4-Socio-cultural based barriers (SCBB),
+5-General hindrance barriers (GHB)",Yes,"B1 High investment and implementation cost
+B2 Employee fear and resistance to change
+B3 Lack of top management commitment
+B4 Unavailability of skilled manpower and need for enhanced skills
+B5 Lack of awareness about data collection and analytics
+B6 Risk of cyber security and data privacy issues
+B7 Government rules and regulation
+B8 Lack of data management system
+B9 Lack of standards and reference architectures
+B10 Lack of IT and organizational infrastructure
+B11 Lack of availability of suppliers for embedded systems/devices, sophisticated software and hardware
+B12 Low maturity level of preferred technology
+B13 Lack of clarity about economic benefits
+B14 Lack of leadership, advisory and monitoring
+B15 Challenges in value-chain integration
+B16 Lack of training and education about LSS in context of I4.0
+B17 Lack of integration of Lean Six Sigma with smart tools/I4.0
+B18 Lack of proper recognition and rewards for LSS team
+B19 Lack of effective communication
+B20 Poor supply chain coordinati | nan | nan | nan"
+Italy,Developed,Manufacturing Industry,Industry 4.0 in general,not mentioned,Yes,"Worker Resistance:""Challenges related to workers' resistance""
+Workplace Ergonomics:ergonomics of the work environment"" considers ""workers' physical, economic, and social well-being"", ""smart glasses causing headaches""
+Ethical Concerns:""absence of determination to tackle ethical issues,"",""sociological and ethical matters,"".
+Financial Constraints: financial difficulties""
+Lack of Knowledge and Awareness:  ""little understanding of Industry 4.0"", ""lack of an attitude toward Industry 4.0"".
+Training Needs: ""underestimation of the importance of upskilling and reskilling workers,"".
+Human-Technology Balance: right balance between technology and humans, sociology, ethics"" | nan | nan | nan"
+Germany,Developed,Pharmaceuticals,Industry 4.0 in general,"16-Poor openness, accessibility, and availability: ""System crash, uncoordinated interaction, errors due to problems in updated data at server, inaccurate data transfer, power failure, may lead to problems related to openness, availability, and accessibility.""
+
+17-Lack of green initiatives: ""Minimum usage of sustainable and renewable material reduces material handling and transportation cost. The industry is responsible for providing waste collection and other processing facilities.""",No,"1-Investment in prototyping collaborative robots: ""It includes investment on prototype robots that can mimic humans and can sense and analyze human intention, pick to light system and human-machine interface.""
+
+2-Infrastructure standardization: ""Infrastructure needed to prepare the firm for automation, and integration of heterogeneous components using the latest technologies.""
+
+3-Collaborative model (application of collaborative robots to R&D task; development of smart and collaborative devices; human-machine safety): ""To ensure safety, direct communication between humans and robots is needed. This will ensure workforce safety while working within a defined workspace.""
+
+4-CPS standards and specification: ""CPS model facilitates interaction between the physical and virtual world (computing components). Validation of such framework is needed to ensure that the manufacturing units/systems are capable of handling the particular needs and specified constraints."" | 5-Semantic interoperability: ""To ensure efficient and effective interaction, accurate data transaction and information exchange among machines as well as between human-machine with a well-defined protocol used.""
+6-Automation and digitization of process: ""Intertwining among digital and physical process helps in better inventory management and overall operations. This convergence helps in establishing global networks that integrate warehouse systems, machinery, and manufacturing/production facilities.""
+7-Linking virtual reality and reality: ""It is the integration of virtual manufacturing at 3 levels: virtual engineering (VE) processes, VE factories, and VE objects. It is done using specialized CPS. A set of well-defined rules and system intelligence is used to enable the exchange of information between the real and the virtual productions.""
+8-Value chain integration’s challenges: ""Resistance across different departments (employees) within the firm and also among various firms in the valu | 9-Change management ineffectiveness and resistance to change: ""Ineffective management of changing processes—executives, employees, value chain members and third-party channel partners. The introduction of advanced technologies, which are way ahead of conventional methods of manufacturing, are resisted by personnel with limited or traditional skill set.""
+10-Incorporation of ethics in robots/systems: ""Machine ethics ensures that the behavior of machines toward users (human) is morally acceptable. The need is to build artificial moral agents that can probe deeply and mimic the decision making and nature of human. The challenge is to choose either an 'implicit' or an 'explicit' ethical agent.""
+11-Falsified information and lack of information: ""An important tool is used on the internet including social media to boost public health, the risk through excess information exchange; falsified information and lack of information excellence."" | 12-Lack of simple and fair benchmarking: ""The rational and unbiased assessment systems to standardize the performing systems and predict future sustainability challenges.""
+13-Lack of standardization, regulations, legalization and forms of certification: ""There is a lack of system-level perspective, international cooperation efforts, set of uniform technical standards, reference architecture model, industrial internet reference architecture.""
+14-Increase in chances of error due to complete automation or interaction between human and machine: ""Inappropriate feedback or over-automation; error in correctly realizing/assigning required tasks; or due to dissonance control for human reliability in CPS.""
+15-Disproportion between technology development, social evolution: ""The firms are moving to new technology paradigm and progressing towards smart manufacturing but completely/partially ignoring its impact on society and environment."""
+Developed Countries,Developed,Manufacturing Industry,Information & Communication Technologies,not mentioned,Yes,"Lack of comprehensive lifecycle management standards:
+
+""There is still a shortage of comprehensive lifecycle management standards and guidance due to the complexity that comes from various types of network architectures."" 
+Interoperability challenges in System of Systems (SoS):
+
+""For large SoS (System of Systems), the SOA (Service-Oriented Architecture) approach has been investigated as the architecture that can handle large-scale automation."" 
+Integration of modular systems in Industry 4.0:
+
+""The modular approach of Industry 4.0 requires applications to be integrated into industrial systems, e.g., CPSs, as efficiently and quickly as possible."" 
+Difficulty managing the complexity of SoS:
+
+""Managing the SoS is a much more complicated task. The lifecycle stages of PLM are relevant for SoS, but the perspective does not entirely align with SoS."" 
+Challenges with evolutionary development in SoS:
+
+""The SoS is flexible and modular enough to evolve with functions and purposes added, removed, a | nan | nan | nan"
+Germany,Developed,"Forestry and timber industry, Manufacturing Supply chain",Industry 4.0 in general,"Legal Challenges , Social Challenges, Economic Challenges, Operational",No,"""Resistance against standardized working processes mainly originated from the uncertainty about the purpose and use of new processes"" e ""data security needs to be guaranteed""
+""costs of technical investment, opportunity costs, operation optimization, and context dependency""
+data security
+Techinical prerequisite
+Accepetance of restruturing
+participation of stackholders | nan | nan | nan"
+Kazakhstan,Developing,,Industry 4.0 in general,"human resources, Culture ,Technical and Governmental, Financial",Yes,"low I4.0 awareness level among executive management and decision-makers.
+should receive proper training and instructions. Otherwise, they might misunderstand the idea or refuse to accept it.
+the lack of communication
+high bureaucracy level and inflexibility of governmental regulations
+no willingness to accept the new trends.
+people’s culture:they start sabotaging ideas.
+no ﬁnancial opportunities to invest in digitalization.
+Consulting companies ask for a big salary.
+Not many people realize that digital transformation will pay off in the future
+There are no equipment and powerful computers. Therefore, these systems cannot work.
+the lack of an integrating framework hinders the application of both technologies effectively and efﬁciently.
+The
+realities of actual business processes are a bit harsh because of corruption, bureaucracy,
+lack of competence.” | nan | nan | nan"
+Lithuania,Developed,,Industry 4.0 in general,"external and
+internal challenges",No,"External Challenges:
+2.1.1. Lack of Standards and Regulations (C1): However, it is believed that there is a
+lack of standards and reference architecture due to the novelty of the concept of Industry
+4.0 [55,56].
+2.1.2. Governmental Support (C2)
+2.1.3. Privacy and Security (C3)
+2.1.4. Environmental Side Effects (C4)
+2.1.5. Lack of Infrastructure (C5)
+2.1.6. Legal and Contractual Uncertainty (C6)
+2.1.7. Difﬁculty in Coordination and Collaboration (C7)
+2.2. Internal Challenges
+2.2.1. Lack of a Skilled Workforce (C8)
+2.2.2. New Business Models’ Competency (C9)
+2.2.3. Resistance to Change (C10)
+2.2.4. Managerial Support (C11)
+2.2.5. Lack of Awareness of the Advantages of I4.0 (C12)
+2.2.6. Data Management (C13)
+2.2.7. Cost of Implementation (C14) | nan | nan | nan"
+Portugal,Developed,Manufacturing Industry,Industry 4.0 in general,"Economic/financial, Cultural, Skills/resources,  Legal, Technical,  Implementation process",No,"Lack of clarification of economic benefits
+Lack of standards (interoperability and compatibility) 
+Underdeveloped IT infrastructure
+Lack of employees’ skills
+Concern with the reliability ofsystems
+Need for large investments
+Lack of support from top management
+Lack of technical knowledge
+Demotivation ofworkers
+Concern about data security
+Need to create new business models
+Lack of regulation and procedures | nan | nan | nan"
+Poland,Developed,Manufacturing Industry,Industry 4.0 in general,"Scope Gap:, Time Gap, Decision Gap, Budget Gap, Knowledge Gap, Motivation Gap, Cultural Gap:",No,"Scope Gap:
+“No progress in digitization due to long project implementation (other projects depend on the implementation of the electronic attendance list)”​
+“Adding additional scopes of work to the scope of the electronic attendance list project (the need to build an additional database for collecting power data, building a data exchange bus)”​
+“Change of the scope of the attendance list progressing over time (need to integrate with other systems)”
+“Most decisions and problems are solved by the project team as they require detailed operational knowledge. On the other hand, the decisions made translate into the company’s overall architecture”
+
+Time Gap:
+“Project delays are visible (exceeding several times the projected completion time)”​
+“The focus on fast results in all layers of management makes it impossible to cover the entire organization with planning”​ | Budget Gap
+“Decisions related to budget expansion are postponed.”
+“Adding additional work scopes in the scope of projects causes unforeseen costs.”
+Decision Gap
+“As part of the project, decisions are made that are beyond its scope and the project manager’s competences.”
+“The project manager avoids asking the management board to make decisions because decisions are not made or it takes a long time.”
+“The boundary between PoC (Proof of Concept) and the project is blurred, because decisions based on implementation applications are delayed.” | Knowledge Gap
+“Project products used by the least qualified personnel, causing numerous operational problems.”
+“Small digital competences in the vast majority of operational personnel.”
+“Difficulty creating prototypes and drawing conclusions from PoC (Proof of Concept).”
+Motivation Gap
+“Reluctance to getting involved in digitization projects.”
+“Fear and concerns about the use of technology.” | Cultural Gap
+“Conflicts due to the clash of the planning and control culture with the new style of collaborative work by project managers.”
+“Little permission to make mistakes during prototyping.”
+“Conflict between agile management and a traditional approach.”"
+England,Developed,Food and beverage manufacturing,"AI, Condition Monitoring, IOT & Cyber-physical systems",not mentioned,No,"Data acquisition and labelling:
+""Labelling of data is one of the primary challenges with utilising ML methods within production environments."", ""extremely costly in terms of time and disruptions to production processes.""
+
+Trust in  models
+""factory operators and managers may not trust the sensor predictions without understanding how they were reached.""
+
+Technological infrastructure:
+""there are challenges in terms of infrastructure and data acquisition,"" ""safe and efficient operation of manufacturing processes""​ | nan | nan | nan"
+Developed countries,Developed,Manufacturing Supply chain,,not mentioned,No,"IT/IS-business misalignment,  Poor data quality , Poor external system integration, Budgetary constraints, Lack of top management commitment, Goals conflict / Trust Inversion. | nan | nan | nan"
+Germany,Developed,,Industry 4.0 in general,not mentioned,No,"Qualification of staff
+High investment
+Shortage of staff
+Cost-benefit assessment
+Legal uncertainties
+Missing interfaces in hardware and software
+Compliance with data protection
+Lack of employee acceptance
+Missing standards and norms
+insufficient bandwidth
+Transparency of the value chain | nan | nan | nan"
+Brazil,Developing,"Automotive Sector, Chemicals, Manufacturing Industry, Textile industry, Various",Information & Communication Technologies,"Technological, Organizational, and Environmenta",Yes,"Technological:
+Interoperability: Difficulty in integrating systems across different levels (ERP, MES, SCADA, PLC), often with different providers and architectures, complicating system communication.
+Cybersecurity: The integration of IT and Automation Technology (AT) increases vulnerability to cyberattacks, making data and process protection a critical challenge.
+Technology Expansion: Companies face challenges in adopting systems capable of supporting future growth, with increasing demands for real-time data processing.
+Platform Capabilities: Choosing scalable platforms that can support future integration is key to ensuring flexibility and continuity of systems. | Organizational:
+
+Infrastructure Requirements: ""In order to adopt an information system for vertical integration, much equipment, sensors, and a network structure are required to support it"" (p. 16).
+Resistance to Change: ""For people that are used to making decisions based on experience, making decisions based on data or technologies is a challenge"" (p. 16).
+Readiness and Training: ""We put our MES to run without giving proper training to our employees. Because of this, the company almost stopped. It was chaos!"" (p. 17). | Environmental:
+
+Competitive Pressure: ""To seek competitive advantage in a competitive global market, organizations strive to adopt innovations"" (p. 19).
+Benchmarking: ""Benchmarking was a crucial factor since they needed to monitor their competitors to learn about the technologies they are using"" (p. 19).
+Supplier Solidity: ""Top managers ask: Is the supplying company solid? Is it global? Can it serve several plants around the world?"" (p. 20). | nan"
+Global,Global,"Manufacturing Industry, Manufacturing Supply chain",Industry 4.0 in general,,No,"nao mencionado | 1. Complexity of Implementation
+""The most advanced companies have developed 'smart factories' internally, and integrated supply chain/manufacturing ecosystem solutions are still at initial stages of implementation. [...] creates ambiguities due to the absence of agreed upon standards"" (p. 1294).
+""With real-time integration of intra-firm and inter-firm operations, the boundaries between firms evaporate as autonomous systems exchange information [...] However, the development of such complex, dynamic, and integrated systems is challenging"" (p. 1293).
+2. Knowledge Gaps Among Ecosystem Participants
+""As advances in digital technology increase the scale, speed and scope of digital convergence in the network, the knowledge heterogeneity that may exist among the participants need effective maneuvering within the network"" (p. 1304).
+""The orchestrator of the ecosystem needs to facilitate knowledge creation, assimilation and integration across time and space"" (p. 1304). | 3. Trust in Platform Ecosystems
+""The trustworthiness of the orchestrator, as perceived by other participants, also plays a key role in shaping the functions and boundaries of the platform ecosystem"" (p. 1304).
+""How does the perceived trustworthiness of the multinational orchestrator define the scope and boundaries of the platform and the inter-firm protocols within the network?"" (p. 1304).
+4. Adapting and Governing Digital Business Models
+""Multinationals face the innovation-integration dilemma: they need to balance ownership with control rights and the dynamics of mandates for different players, subsidiaries and extended network participants"" (p. 1306).
+""How can the firm choose between maintaining and building upon firm-level capabilities or leverage the capabilities of global partners from platform ecosystems?"" (p. 1306).
+5. Standardization and Interoperability
+""Some of the key Industry 4.0 research priorities are on standardization and reference architecture related to network, data, | nan"
+South Africa,Developing,,Industry 4.0 in general,"Socioeconomic factors,Task environment factors, Infrastructure factors",Yes,"Socioeconomic factors:
+Resistance to technology, cultural construct, social structural
+inequalities, noticeable youth unemployment, limited access to
+information, awareness challenges, I4.0 geared towards
+competitiveness, slow pace of adoption.
+Task environment factors:
+Policy constraints, fragmented task environment, lagging industrial
+development, exponential rate of change, inadequate innovation
+system, international developments and trends, government support.
+Infrastructure factors:
+Equipment not supporting I4.0 requirements, inadequate ICT
+infrastructure, limited access to I4.0 technologies, limited access to
+reliable electricity supply, limited availability of advanced technologies.
+Human capital factors:
+Critical skills shortage, inadequate alignment between skills
+development and skills requirements, skills migration, potential
+negative impact on low-skilled and semi-skilled jobs. | nan | nan | nan"
+Brazil,Developing,,Industry 4.0 in general,not mentioned,No,"Capacitação e Treinamento dos Funcionários:.Complexidade Técnica e Organizacional,Resistência dos Funcionários,Custos Elevados: | nan | nan | nan"
+India,Developing,Manufacturing Industry,Industry 4.0 in general,"Organizational, Technological, Strategic, Legal and Ethical Issues",No,"• Organizational (C1):
+Low management support and dedication (F11)
+Low knowledge of Industry 4.0 concept (F12)
+Financial constraints as High training and consultancy cost (F13)
+Poor company’s digital operations, vision, and strategy (F14)
+Lack of competency in implementing/applying new industry models regarding organizational and process changes (F15)
+Financial constraints as High Implementation Cost (F16)
+• Technological (C2):
+Seamless integration and compatibility issues between different technologies (F21)
+Lack of IT facilities (F22)
+Lack of global standards for Industry 4.0 (F23)
+Need for enhanced skills for the workforce (F24)
+•Strategic (C3)
+Lack of governmental support and polices (F31)
+Poor research & development on Industry 4.0 adoption (F32)
+Unclear economic benefit of Industry 4.0 (F33)
+•Legal and Ethical Issues (C4):
+Legal issues of industry (F41)
+Security and Data privacy issues (F42) | nan | nan | nan"
+"Finland, India, China, United States","Developed, Developing",Manufacturing Industry,Augmented & Virtual Reality,,No,"technology is not mature enough to allow smooth integration
+-price and needed devices | nan | nan | nan"
+Brazil,Developing,,Industry 4.0 in general,Total Productive Maintenance practices,No,"•Lack of support from senior management
+• Cost of new ICTs adoption 
+• Diversity of machines and systems
+• Compatibility between systems
+• Technical inexperience
+• Ill-structured maintenance processes and activities
+•Narrow I4.0 adoption 
+• Lack of production involvement
+• Difficulty in showing financial payback of I4.0 investments
+• Unskilled labor force
+• Benefits from I4.0/TPM integration not evident
+• Manually operated machines constrain digitization
+• Compatibility between systems’ software
+• Benefits from I4.0/TPM integration not evident | nan | nan | nan"
+Germany,Developed,Textile industry,Industry 4.0 in general,not mentioned,Yes,"Lack of technical expertise:
+""Executives lack capacities to even define the next steps and resources required for Industry 4.0, and they can hardly assess the possible impacts of in-house technical changes.""
+Financial restrictions:
+""Financial restrictions prevent especially SMEs from investing into digital infrastructure.""
+Resistance from employees:
+""Employees may ‘unlearn’ how to operate or regulate machine processes themselves. And they start feeling unnecessary, develop reluctant attitudes towards their workplace.""
+Loss of skilled labor and know-how:
+""Decades of public discourse on the dusk of German textiles have created severe image problems... 52 percent of the employees in this sector are at least 50 years old.""
+Infrastructure limitations:
+""Digital infrastructure, data protection... are not yet sufficiently provided at some German locations.""
+Inter-firm distrust:
+""Deeply rooted distrust between textile firms, also including machinery producers, obstructs constructive inter-firm | nan | nan | nan"
+Iran,Developing,,Industry 4.0 in general,"Conceptual, Executive, Technical, Regulatory",No,"Lack of clear comprehension of I4.0 concepts.
+Poor understanding of I4.0 adoption pattern
+Meagre digital operations vision and strategy
+Lack of appropriate management practices
+Lack of competency to adopt/implement new business
+models
+Financial constraints
+Absence of experts in I4.0
+Uncertainty in the economic interest of digital investments
+Lack of training programs
+Reluctant behaviour towards I4.0
+Employment disruptions
+Lack of digital culture
+Poor existing data quality
+Problem in integration of technology platforms
+Unavailability of universal standards and protocols for data
+sharing
+Inadequate internet-based networks and digital
+infrastructure 
+Legal matters
+Profiling and complexity concerns
+Lack of governmental policies and support 
+Problem of coordination and collaboration
+Security concerns | nan | nan | nan"
+France,Developed,Manufacturing Industry,Augmented & Virtual Reality,,No,"Complexidade do Processo de Autoria de Conteúdo
+Desafio: A criação de conteúdo para VR e AR é complexa e demorada, exigindo conhecimentos avançados em TI e expertise em processos industriais.
+
+Trecho do artigo:
+""Nevertheless, the authoring and editing process of virtual and augmented content remains time-consuming, especially in complex industrial scenarios.""
+(Página 1, Introdução)
+
+2. Dificuldade de Integração com Ferramentas Existentes
+Desafio: A falta de interoperabilidade entre ferramentas de VR/AR e outras ferramentas industriais, como CAD e PLM, dificulta a adoção dessas tecnologias.
+
+Trecho do artigo:
+""Moreover, as the scenarios and scene states are based on a formalized UML model, external tools, such as Computer-Aided Design (CAD) and Product Lifecycle Management (PLM) tools, based on a specific plugin development, could provide scenarios authoring in an INTERVALES standard.""
+(Página 6, Seção 3.1.1)
+
+3. Limitações dos Modelos Existentes
+Desafio: Muitos modelos existentes são l | 4. Dificuldade de Representação de Interações Complexas
+Desafio: Representar interações complexas, como ações envolvendo múltiplos objetos ou colaboração entre humanos e robôs, é um desafio técnico significativo.
+
+Trecho do artigo:
+""However, the limits of this become obvious when multiple-object actions, like assembly operations, are involved. In those cases, each new action should be defined on each existing object according to each new possible combination.""
+(Página 3, Seção 2.1.1)
+
+5. Resistência à Adoção de Novas Tecnologias
+Desafio: A adoção de tecnologias emergentes como VR e AR em ambientes industriais tradicionais pode enfrentar resistência devido à falta de familiaridade e ao custo de implementação.
+
+Trecho do artigo:
+""However, translating this ontology into a VR/AR application can be complicated by its specific data representation that is triplet oriented and not Object Oriented.""
+(Página 4, Seção 2.1.2) | 6. Dificuldade de Manutenção e Atualização de Cenários
+Desafio: A manutenção e atualização de cenários VR/AR para refletir mudanças nos processos industriais pode ser trabalhosa e exigir conhecimentos técnicos avançados.
+
+Trecho do artigo:
+""As the application is based on Entity/Feature, Action/Relation, and Objectives, scenarios are defined in a UML-based language, they can be adapted to fit the industrial process evolution.""
+(Página 10, Seção 3.3)
+
+7. Desafios de Usabilidade e Experiência do Usuário
+Desafio: A usabilidade e a experiência do usuário são críticas para a adoção de tecnologias VR/AR, especialmente em ambientes industriais onde os operadores podem não ter familiaridade com essas tecnologias.
+
+Trecho do artigo:
+""To collect user feedback and evaluate if the INTERVALES framework and its user interface for scenario authoring can be used by IT experts as well as job experts without development skills, we made an experiment with 11 respondents (5 developers and 6 job experts wit | 8. Dificuldade de Implementação de Agentes Autônomos
+Desafio: A inclusão de agentes autônomos (como braços robóticos) em ambientes virtuais e aumentados é um desafio técnico significativo.
+
+Trecho do artigo:
+""This can also include the possibility of providing more freedom and involvement to users in the scenario by allowing them to make mistakes or attaching consequences to their actions (i.e., the causality principle).""
+(Página 2, Seção 2)
+
+9. Desafios de Avaliação de Segurança e Ergonomia
+Desafio: A avaliação de segurança e ergonomia em estações de trabalho industriais, especialmente aquelas que envolvem colaboração entre humanos e robôs, é um desafio significativo.
+
+Trecho do artigo:
+""During the design and digital prototype review phase, a VR environment is used for the design and ergonomic and safety assessments of the manual and robotic workstations.""
+(Página 13, Seção 3.4.1)
+
+10. Dificuldade de Treinamento de Operadores
+Desafio: O treinamento de operadores usando VR/AR pode ser d"
+Spain,Developed,Manufacturing Industry,"Augmented & Virtual Reality, Cloud & Edge Computing, Condition Monitoring, Human-Machine-Interaction, IOT & Cyber-physical systems, Information & Communication Technologies",,No,"expensive hardware compatibility issues
+workers’ skill development
+social distancing
+older manufacturing systems
+lack of experience in new technologies | nan | nan | nan"
+Developed countries,Developed,Mineral wool production,Information & Communication Technologies,,Yes,"1. Stakeholder identification
+Lack of clarity of the information the PIMS should store
+Lack of clarity of who the internal stakeholders are
+Lack of clarity of how product information relates to stakeholders
+Difficulties in achieving a common understanding of the project of the stakeholders
+Difficulties in defining stakeholders’ roles
+Difficulties in the organization/planning of the physical kick-off meeting
+2. As-is analysis
+Too little time to conduct the project 
+Same information stored with different identifiers in same or different
+systems
+Attributes exist multiple times in different languages 
+Employees struggled to understand which attributes they had to list as part of the data model
+BUs delayed the process because they lacked time to share data 
+Not knowing which data to supply
+3. To-be proposal
+Global markets and local markets had different or even conflicting requirements
+Different BUs was in a different position to start the digitalization journey
+Deciding if data should be n | Factors influencing the scoping phase of a PIMS:
+Data quality, cognitive complexity, timing, and organizational complexity | nan | nan"
+India,Developing,Manufacturing Industry,Industry 4.0 in general,"Financial risks,Operational risks,Technological risk,Business risk,Societal and
+environmental risks,Supply chain risks,Cybersecurity risk",No,"Financial risks
+-High investments
+-Personnel costs
+-Long and uncertain amortisation
+-Too late investments
+-Risk of obsolescence of an
+investment in technology
+-Unclear economic benefit
+-Risk of false investments
+-A decision in what to
+invest when
+
+Operational risks
+-Maintenance
+-Technological risk
+-Higher complexity
+-Low awareness
+-Industrial espionage
+-Redesign of facility layout
+-Inadequate qualification
+of employees
+-Restrictions by employees'
+representatives
+-Sabotage by employees
+-Internal resistance and
+corporate culture
+-Shifts of competencies
+-Manufacturing process
+management-based risk
+-Operation method and
+tool-based risks
+-Denial-of-Service (DoS)
+-Infrastructure
+shortcomings
+-Lack of expertise
+-Organisational risk
+-Fear of employees | Technical Risks
+
+""Low degree of maturity of I4.0 technologies""
+""Technical integration""
+""Lacking standards/international standards differ""
+""Increasing dependence on technology""
+""Retrofitting""
+""IT-interface problems""
+""Availability of fast internet""
+""Communication between devices""
+""Lack of decision logic""
+""Stability of internet-based communication""
+""Availability of adequate IT Infrastructure""
+""Increased system maintenance/incompatibilities""
+""Lacking understanding of data-driven business models""
+""Infrastructure shortcomings/network congestions"" | Business Risks
+
+""Losing a competitive advantage""
+""Transformation of business models""
+""Loss of core competencies""
+""Power shifts""
+""Transparency of data can be misused""
+""Diminishing barriers to market entrance""
+""Theft of industrial trade secrets and intellectual property""
+""Dependence on technology providers""
+""Short-term strategy"" | nan"
+India,Developing,Manufacturing Supply chain,Industry 4.0 in general,"Lack of awareness(LAW), Lack of skilled workforce and digital environment (LSW), Lack of physical and IT infrastructure(LI), Lack of competency and motivation(LCM), Lack of government support and incentives (LGS), Lack of sustainable practices (LCP), Lack of effective policy and protocol (LPP), Lack of acceptance(LA), Lack of circular design aspect(LCD), Fear of change of culture (FCC)",No,"•Lack of awareness(LAW): Unclear beneﬁt, low understanding, the poor vision of the organization, low awareness of sustainable raw material, awareness of farmers
+•Lack of generalized framework (LGF):
+Global standards, protocols, integrated platforms, no universal consensus
+
+•Lack of skilled workforce and digital environment (LSW):
+Skilled workforce, Digital culture, Language barriers, process digitalization
+
+•Lack of physical and IT infrastructure(LI):
+Sensor integration, infrastructure standardization, interface platform, compatibility issues
+
+•Lack of competency and motivation(LCM):
+Competitiveness, capability, fewer priorities to CE practices
+
+•Lack of government support and incentives (LGS):
+Legal issues, collaboration issues, unavailability ofﬁnancial support, low price of virgin material
+
+•Lack of sustainable practices (LCP):
+Lack of compliance, sustainability regulation
+
+• Lack of effective policy and protocol (LPP):
+Semantic interoperability issues, a policy that supports CE tra | ack of acceptance (LA):
+""High investment cost, sustainability adoption cost, security issues, fear to lose business during the transformation phase, trust issues."" O alto custo de investimento e a ausência de exemplos reais de viabilidade financeira, além de problemas de segurança, reduzem a taxa de aceitação​
+.
+Lack of circular design aspect (LCD):
+""Eco-innovation, eco-design, eco-efficient technologies."" A falta de design de produtos com aspectos de redesenho, remanufatura, regeneração e restauração para desenvolver modelos de negócios circulares devido à tecnologia ineficiente e à ausência de digitalização | Fear of change of culture (FCC):
+""Producer and consumers culture."" Agricultores têm receio de mudanças. Por serem financeiramente instáveis, a modernização e questões ambientais não estão em suas prioridades | nan"
+Developed countries,Developed,"Manufacturing Industry, Medical Manufacturing, Various",Additive Manufacturing,,No,"1-Lack of Understanding and Expertise in AM
+2-Absence of Standardisation and Guidelines
+3-Cybersecurity Threats:
+4-qualidade e confiabilidade da tecnologia | nan | nan | nan"
+Italy,Developed,Manufacturing Industry,Industry 4.0 in general,Not mentioned,No,"Investment cost,
+ The scarce availability of internal resources and the difficulty of evaluating opportunities, 
+Poor knowledge of possible business solutions and technologies offered by the market
+,  The difficult identification of competent external partners, 
+The lack of knowledge of fiscal and economic incentives, 
+The lack of maturity of the technological solutions offered by the market | nan | nan | nan"
+Developing Countries,Developing,Manufacturing Industry,IOT & Cyber-physical systems,Not defined,No,"standardization of the infrastructure (B1), 
+virtualization of the automation system (B2),
+ quality of the data (B3), 
+adaptability (B4),
+customer preferences (B5), 
+sensor technology (B6), 
+development of smart devices (B7), 
+upgradability (B8), 
+semantic interoperability (B9),
+financial risk (B10),
+ compatibility (B11),
+ government support (B12), 
+in­vestment cost (B13),
+ eco-efficiency of the process (B14),
+ cyber-physical systems (B15), 
+customer behavior (B16), 
+digitization of process (B17),
+fog networking (B18), 
+coordination and collaboration (B19), 
+systems interface (B20), 
+network security (B21), 
+and cyber-physical systems and standardization and integration (B22). | nan | nan | nan"
+India,Developing,Manufacturing Supply chain,Industry 4.0 in general,"Technology, Organizational, Environment, Social, Economic",No,"•Technology:
+-Compatibility Issues (B1): Firms usually lack skills in handling issues related to compatibility between existing
+and new systems.
+-Lack of infrastructure and internet-based networks (B2): Poor internet connectivity and lack of related infrastructure are imperative impediments to Industry 4.0 and sustainable practices.
+-Data security and data protection (B3): Industry 4.0 has integral data security-related vulnerabilities (phishing attacks and the stolen of privileged credentials), which can be exploited, resulting in mass data exposure.
+-Lack of standards and reference architectures (B4): There exists a lack of global standards, data sharing protocols, inconsistency in software incompatibility, and manufacturing-speciﬁc reference architecture for Industry 4.0.
+•Org
+Lack of futuristic outlook (B7): ""Industry 4.0 is a digital transformation, where if firms fail to illustrate their vision, roadmaps, and strategy, then they will have to struggle when transforming these visio | -Lack of management dedication, commitment, and leadership (B5):  Senior management encouragement, involvement, and dedication to accept the changes are of prime importance to effectively diffuse Industry 4.0 and sustainability initiatives in manufacturing ﬁrms
+Fear of success (B6): ""Industry 4.0 requires unknown duration for amortization, substantial investments, with an ambiguous success rate as well as profitability.""
+Need for enhanced skills (B9): ""The implementation of Industry 4.0 demands employees to acquire new skills.""
+Organizational and process changes (B10): ""The implementation of Industry 4.0 must be advocated at all organization levels, which may require the re-engineering or re-evaluation of commercial practices."" | Environmental
+Lack of understanding among supply chain stakeholders (B11): ""Less exposure of the stakeholders to the benefits of Industry 4.0 and hence their resistance to adapt and change their practices.""
+Need to develop environmental systems (B12): ""Firms not having proper management of environmental systems may lose clients who prefer sustainable products.""
+Market uncertainty on the availability of green suppliers (B13): ""Uncertainty about the availability of sustainable products inhibits the development of demand, thereby slowing down the market of potential buyers.""
+Lack of supplier’s flexibility to change towards sustainability (B14): ""If suppliers are rigid and do not share beneficial suggestions and innovative ideas, it can hamper the implementation of Industry 4.0."" | Social
+Lack of customer’s awareness (B15): ""Customer awareness regarding materials used, products manufactured, the process followed, and machine functioning and their impact on the environment can pressurize the procurement department towards complying with sustainable practices.""
+Managing employee anxiety (B16): ""Implementation of Industry 4.0 will require the manufacturing firm to manage employee anxiety and unrest.""
+Employment disruptions (B17): ""The fear in the mind of the employee that the shift to Industry 4.0 will remove them from the job.""
+Difficulty in identifying and managing socially sustainable suppliers (B18): ""Challenges in selecting suppliers following the social rules that include gender equality, labor laws, and community development."""
+India,Developing,Construction material,Industry 4.0 in general,,No,"C1 - Heavy layoffs due to smart processes:
+Advances in artificial intelligence and automated processes may lead to the replacement of human workers, especially in tasks such as excavation, grading, and site work.
+
+C2 - Huge initial investment and maintenance costs:
+Implementing the Industry 4.0 framework requires high initial investments in technical equipment, training, and infrastructure maintenance, discouraging construction companies from adopting the technology.
+
+C3 - Need to prepare for a significant organizational and process change:
+The construction value chain is fragmented, involving various participants from diverse backgrounds, which makes implementing the Industry 4.0 framework difficult.
+
+C4 - Requirement to attain advanced technical skills:
+The integration of Industry 4.0 requires advanced technical skills, which are often scarce in the construction sector.
+
+C5 - Need to establish a strong information collection, distribution, use, and management mechanism:
+Due to the sc | C6 Lack of management support
+C7 The problem in hiring qualiﬁed professionals, especially at the
+ground level
+C8 Reluctance and apprehensions to resort to change in
+technology
+C9 Need to establish research and development facilities
+C10 Educating higher management particularly experienced
+professionals about the technological change
+C11 Providing contractors and sub-contractors the necessary
+skills and understanding of the process | C12 Recruitment of skilled personnel to impart necessary
+knowledge and training to the employees
+C13 Non-seriousness to adopt the new concepts in technology
+C14 Unclear about the economic beneﬁts of IoT-enabled
+framework
+C15 Getting a common consensus on the adoption of new
+technology from the employees and management
+C16 Unclear comprehensibility of the advantages of IoT
+C17 Disruptions in the compensation policies | C18 Proper internet connectivity and other IT facilities.
+C19 Uncertain impact on working life.
+C20 Safety issues arising due to manhandling of devices
+C21 Increased protection of sensitive devices from dust and
+pollutants present on-site.
+C22 Need to establish a reliable and stable machine-to-machine
+communication network
+C23 Need to ensure proper monitoring, inspection, and validation
+of services in the production of key assets.
+C24 Lack of regulation, standards, and certiﬁcations.
+C25 Legal barriers"
+India,Developing,Automotive Sector,Industry 4.0 in general,"Manufacturing Management (MM), Manufacturing Strategy (MS), Manufacturing Technology (MT), Workforce & Organizational Management (OM)",No,"• Manufacturing Management (MM) :
+Poor management commitment for adoption of sustainability (MM1)
+Immaturity of industry standards around IoT (MM2)
+Employee training for I4.0 (MM3)
+Aging society (MM4)
+Resource efficient and clean urban production (MM5)
+Volatile markets (MM6)
+Shorter product life cycle (MM7)
+Cost reduction pressure (MM8)
+High level of customization of the techniques for in situ measurements (MM9)
+•Manufacturing Strategy (MS)
+Energy efficient CPS (MS1)
+Competitiveness and future viability (MS2)
+Design complexity for energy consumption reduction (MS3)
+Environmental side-effects (MS4)
+Lack of strategy towards I4.0 (MS5)
+Customization of mass products (MS6)
+Modularization and servification of CPS (MS7)
+and Modelling (MS8)
+Complexity in reconfiguring of production pattern (MS9)
+• Manufacturing Technology (MT)
+Real-time link of physical production and digital factory (MT1)
+Context-adaptive and autonomous systems (MT2) | Transformation of CPS data and information analytics to actionable knowledge (MT3)
+Coexistence and interoperability (MT4)
+Computational ability (MT5)
+Fault Tolerance ability (MT6)
+Acquisition of Automation Data (MT7)
+Data Transformation (MT8)
+Low-cost smart sensing system development (MT9)
+•  Workforce & Organizational Management (OM)
+Organizational and production fit (WOM1)
+Cooperative production systems (WOM2)
+Maintaining the security of the applications and users’ privacy (WOM3)
+Seamless internet facility (WOM4) 
+Lack of technological infrastructure (WOM5)
+Human-machine symbiosis (WOM6)
+Real-time performance in dynamic
+environments (WOM7)
+Job opportunity (WOM8)
+High costs of required investment in IoT infrastructure (WOM9) | nan | nan"
+Poland,Developed,Manufacturing Industry,Industry 4.0 in general,,Yes,"Lack of funding.
+Fear of failed implementation.
+Unclear economic benefits.
+User resistance to specific Industry 4.0 solutions.
+Limited employee qualifications | nan | nan | nan"
+Italy,Developed,Manufacturing Industry,Augmented & Virtual Reality,,No,"Interoperability Issues: “The number of connected and interconnected devices is growing enormously. The main consequence is that the amount of data and information to be collected, processed, organized, managed, exchanged is always greater. Enabling interoperability between different systems and organizing knowledge appropriately means deriving enormous value from this trend.”
+Limited Reusability of MR Applications: “Many MR-applications are strongly linked to the domain, within which they were originally developed. This happens mainly due to the use of too specific data models, but also and above all due to low levels of interoperability, which make difficult to connect each MR-application with several systems.” | Data Accessibility and Findability: “There is a need for solutions capable of guaranteeing the correct organization and structuring of data and information to increase accessibility and findability by the smart operator, and therefore improve his/her performance on the shop floor.”
+Lack of General-Purpose Architectures: “Overall, the scope of the vast majority of the architectural models proposed in the literature is application-specific. There is a lack of generic, ontology-based, Industry 4.0-ready models.” | nan | nan"
+Switzerland,Developed,Sanitary manufacturing,Condition Monitoring,not mentioned,No,User resistance/acceptance | nan | nan | nan
+China,Developing,Manufacturing Industry,"AI, Big Data, Cloud & Edge Computing, IOT & Cyber-physical systems, Information & Communication Technologies",not mentioned,No,"Smarter Devices in Customized Manufacturing: In a CM environment, the equipment does not only perform the basic functions of automation but also needs capabilities like data storage, logical inference, and preventive maintenance.
+
+Efficient Information Interaction: ""Efficient information exchange between manufacturing components, which is complicated by device heterogeneity and increased communication demands... meeting diverse latency requirements""
+
+Practical Deployment and Knowledge Transfer: ""Technology transfer from research institutions to enterprises involves many nontechnical factors, such as market analysis, intellectual property management, technical invention protection, and commercialization""​ | nan | nan | nan"
+Australia,Developed,Manufacturing Industry,"AI, Big Data, IOT & Cyber-physical systems",,No,"Desafios relacionados à qualidade dos dados:
+
+""The raw data from IoT devices suffer from low-quality issues due to hardware imperfections or unreliable wireless transmissions, possibly leading to inaccurate analytics.""
+
+""The data from massive multisource and densely distributed sensors are likely to be redundant and even contradictory.""
+
+""In real industrial settings, the generated high-frequency data flows in a streaming fashion, which is impractical for fine-grained manual labeling.""
+
+Desafios relacionados ao volume e complexidade dos dados:
+
+""As huge volumes of data are becoming available at a rapid rate in digital industries, an efficient data ingestion method is a prerequisite for further data monitoring, analytics, and modeling.""
+
+""In a real industry setting, IoT connected sensor data are gathered in an unstructured format and are high in volume, large in size and dimensions, with a large amount of noise, and constantly changing patterns due to changes in the environment and senso | Desafios relacionados à integração de sistemas:
+
+""From a global perspective, an integrated system is needed to undertake data ingestion, management, security, and cloud computing-based data analytics for real-time processing.""
+
+""Instead of a simple concatenation, the integration of heterogeneous layers, methods and tools has to be addressed in an appropriate way. In this sense, all the elements need to be compatible with each other and work properly across the whole system.""
+
+Desafios relacionados à escalabilidade e processamento distribuído:
+
+""Most machine learning techniques and opensource packages are not feasible in terms of scalability, ease of use, extensibility, and generalization ability when faced with the issues of big data.""
+
+""It is critical to develop new types of distributed processing systems for IoT big data."" | Desafios relacionados à detecção de ruído e anomalias:
+
+""Noise detection for the equipment health state monitoring of intelligent manufacturing is expected to detect noise while retaining information on anomalies.""
+
+""Handling noise in the presence of significant anomalies is more difficult, as noise and anomalies both belong to outliers and the boundary between them is not easy to define."" | Desafios relacionados à atualização e manutenção dos modelos:
+
+""The trained PCA model and the involved thresholds need periodical necessary updates due to equipment degradation which would lead to an aging trend in the predictive modeling phase.""
+
+""When a sensor is replaced, the update operations are extremely important.""
+
+Desafios relacionados à implementação prática em ambientes industriais:
+
+""Most existing systems only involve the most essential elements and do not cover every functionality that a real industrial implementation would need, such as massive and differentiated data preprocessing. Therefore, they are not complete or practical enough to be deployed in real industrial settings."""
+Norway,Developed,Manufacturing Industry,Information & Communication Technologies,not mentioned,No,"•Trusting the system : 
+compatibility with existing system 
+speed and stability of networks 
+System access and Data security
+•Understanding the benefits
+putting the old tools away
+Effect measures, ROI and business cases
+Return of investment
+•Perspective of economics
+Budget change
+economic conditions
+•Learning to manage scope
+Large-scale implementation and training
+Managing user feedbacks | nan | nan | nan"
+England,Developed,Food and beverage manufacturing,"AI, Big Data, Cloud & Edge Computing, Condition Monitoring, IOT & Cyber-physical systems",not mentioned,No,"-particularity of each machine 
+-Legacy infrastructure
+-Many important parameters that can affect machine learning efficiency turning is slow (forcing a multi-dimensionality reduction) | nan | nan | nan"
+France,Developed,"Ceramics manufacturing, Manufacturing Supply chain",Robotics,"Technical Challenges
+Socio-Organizational Challenges",No,"Technical Challenges:
+technological Limitations of Cobots:
+""current technological limitations (cobot speed, adaptability, intention recognition, construction of workers-robots awareness)""
+
+Safety and Maintenance:
+""intrinsic protection measures (built-in safety functions, torque sensors)."" Any mishap could lead to ""collision, jamming, pinching or cutting"" incidents, necessitating careful design and testing​""
+
+Socio-Organizational Challenges
+Preservation of Knowledge and ""Know-How"": ""value of the knowledge and know-how used by the workers"" which must be ""conserved and supported"" during technical transformations to avoid degradation of work quality. This knowledge encompasses tactile and sensory expertise essential for high-quality production​ | Resistance to Organizational and Technical Transformations:
+
+""Organizational or technical transformations may destabilize this knowledge and know-how and thus compromise production quality""​
+.
+Impact on Workers' Sensory Experience:
+
+""The cobot enters into the intimacy of a human activity and changes the relationship with bodies and the material being worked on. This implicates a theoretical shift in the challenges related to the development of cobotics"" | nan | nan"
+Developed countries,Developed,Manufacturing Industry,Augmented & Virtual Reality,,No,"Technological Challenges:
+""The challenge of finding the correct balance between visual fidelity, performance, ease of use, and quick setup of the XR devices.""
+""Ensuring XR compatibility with information systems and software.""
+Organizational Challenges:
+""Employee resistance toward adopting XR, especially from older employees, was identified as a crucial barrier.""
+""The pitfall however is that management doesn’t free up time for the employees to delve deeper into this technology.""
+""The employees were seen to need sufficient XR skills to operate the solutions independently.""
+Environmental Challenges:
+""Their stakeholders need to increase their skills and readiness to use XR.""
+""The maturity of the XR vendor and training ecosystem was found to be an especially relevant environmental factor for SMEs."" | nan | nan | nan"
+Global,Global,Various,"Cloud & Edge Computing, IOT & Cyber-physical systems",not mentioned,Yes,"Supervision and management, certiﬁcations
+Deployment time
+Scalability
+Security and privacy
+Vendor lock-in
+high maintenance costs
+Reliability
+Latency
+Complexity | nan | nan | nan"
+United States,Developed,Automotive Sector,"Augmented & Virtual Reality, Digital Twin",,No,"High cost of advanced VR technologies
+Limitations in sensory systems, particularly auditory and haptic systems.
+Challenges in integrating  (motion tracking, data synchronization).
+Insufficient technological maturity to create fully realistic experiences | nan | nan | nan"
+Global,Global,Manufacturing Industry,Industry 4.0 in general,,No,"Lack of top management commitment,
+Inadequate Training
+Lack of IT infrastructure
+Lack of Cyber Physical Systems
+Unavailability of Funds
+Non upgradation of Mechatronic systems
+Longer learning cycles
+Lack of Agility in Supply Chains
+Stringent National Policies
+Improper Communication Models | nan | nan | nan"
+India,Developing,,Industry 4.0 in general,"•Environment (E) 
+Systems/infrastructure
+Regulatory framework
+Standards for Quality 4.0
+Interoperability and compliance
+
+•Organization (O)
+Skilled workforce
+High level of investment
+Transformation at organizational and processes level
+Digital strategy
+Quality 4.0 benefits and ROI
+•Technology (T)
+BDA tools and solutions
+Data security and privacy
+Adaptation of Quality Management System
+Knowledge management infrastructure
+Integration capabilities",Yes,"Need for a highly skilled workforce: ""Quality 4.0 requires data analytics, machine learning and artificial intelligence skills not commonly found in the traditional manufacturing workforce. Training and hiring skilled workers can also be costly and time-consuming, especially for small and medium-sized enterprises with limited resources""​
+
+Need for high level of investment: ""Adopting Quality 4.0 requires significant investment in new technology, software and infrastructure. High investment in Quality 4.0 may limit adoption, especially for SMEs lacking financial resources""​
+
+Need for agile transformation at the organizational and process level: ""Implementing Quality 4.0 requires dynamic reconfiguration at the organizational level and demands significant investment in new technologies, training and potentially rehiring. This transformation can pose considerable challenges for smaller organizations with limited resources. Additionally, data security and regulatory compliance complexities, | Lack of strategic alignment and management prioritization: ""Paramount among these is the absence of strategic alignment; the transition towards Quality 4.0 often fails to secure upper management’s prioritization, resulting in suboptimal resource allocation for requisite technological investments and skill augmentation""​
+
+Technological complexity: ""The inception of Quality 4.0 brings forth significant technological challenges that hinder its widespread uptake in the manufacturing sector... Assimilating avant-garde technologies with archaic systems becomes a monumental challenge, demanding considerable capital infusion for infrastructural overhaul""​ | Economic instability and market uncertainties: ""Economic instability and market uncertainty frequently deter the capital-intensive outlays intrinsic to digital metamorphosis""
+
+Lack of standards for Quality 4.0: ""The lack of standardized protocols leads to inefficiencies and inconsistencies due to poor levels of interoperability, data exchange and collaboration among stakeholders, hindering benchmarking and innovation""
+
+Concerns about data security and privacy: ""Data security and privacy concerns hinder Quality 4.0 adoption due to increased vulnerability, regulatory compliance challenges, loss of trust, additional costs, complexity and trade-offs between functionality and security""​
+
+Legacy system integration issues: ""The incompatibility of Quality 4.0 technology with legacy systems hinders adoption due to integration challenges, high costs, operational disruptions, resistance to change, limited functionality, data silos and delayed ROI""​ | nan"
+developing countries,Developing,Manufacturing Supply chain,Industry 4.0 in general,"TBL (economic, environmental, social) dimensions and PPT (people, process, technology)",No,"B1 - Lack of technical expertise
+
+B1.1: Lack of staff training.
+B1.2: Lack of knowledge-sharing methodology and practices​
+
+B2 - Cybersecurity issues
+B2.1: Inadequate processes for monitoring and control.
+B2.2: Weakness in cases of attacks and threats associated with the misuse of available information security technology​
+
+B3 - Resistance to change, change management practices, and innovation adoption
+B3.1: Lack of stimulus for innovation as a way to develop the company’s capacity.
+B3.2: Lack of effective management and/or governance and compliance systems​.
+
+B4 - Lack of investment in R&D
+B4.1: Lack of financial conditions and/or organizational structure.
+B4.2: Lack of top management support​
+
+B5 - Costs of upgrading and economic condition of operations and supply chain management (OSCM)
+B5.1: Wrong procedures or low level of reuse and recovery of products.
+B5.2: Low prioritization in the selection and use of products, services, and companies with sustainable practices throughout the | B6 Lack of support from regulatory authority, weak legislation
+B6.1 Low level of regulatory authority involvement and synergy with the company
+B6.2 Limited or obsolete legislation associated with recurrent innovations inherent to technological advancement
+
+B7 Lack of top management commitment
+B7.1 Lack of encouragement for shared and collaborative management
+B7.2 Lack of efficient communication, awareness campaigns
+
+B8 Alternative resources and energy needs
+B8.1 Lack of technical conditions or technological maturity for adequacy
+B8.2 Lack of funds for investments in appropriate technologies | nan | nan"
+India,Developing,Manufacturing Industry,Industry 4.0 in general,,Yes,"Infrastructure readiness (C-Q1): Firms may acquire real-time data on machine performance, energy
+use and product quality with proper infrastructure. Data is sent to a
+central platform for advanced analytics to detect patterns, optimize
+production and predict errors. The company’s well-prepared
+infrastructure improves efficiency, downtime and product quality
+during its smart factory transformation. With an appropriate
+infrastructure, an enterprise can track products in real time,
+monitor environmental variables (temperature and humidity) and
+record transactions on a blockchain. This transparency safeguards
+quality and safety. Prompt action can be taken for quality or
+discrepancies. Infrastructure readiness improves supply chain
+reliability and accountability
+Skilled workforce development (C-Q2): Highly skilled workers use IoT sensors and data tools to drive
+Quality 4.0 in numerous areas. Skilled teams in pharmaceutical
+quality assurance deploy digital systems and assure data
+compliance, | Infrastructure readiness (C-Q1)
+Skilled workforce development (C-Q2)
+Organizational culture (C-Q3)
+Change management (C-Q4)
+Enabling technologies (C-Q5)
+Government policies and support (C-Q6)
+Collaboration and partnerships (C-Q7)
+Leadership and management commitment (C-Q8)
+Capacity building (C-Q9)
+Customer centeredness (C-Q10)
+Supplier centeredness (C-Q11)
+Q 4.0 training and rewards (C-Q12)
+Leveraged technology adoption (C-Q13)
+Government interventions and policy support (C-Q14)
+Knowledge and awareness of Q 4.0 (C-Q15) | nan | nan"
+Brazil,Developing,"Automotive Sector, Chemicals, Manufacturing Industry, Medical Manufacturing, Pharmaceuticals, Textile industry, Various",Industry 4.0 in general,not mentioned,No,"High investments:
+""High levels of investment are required to implement the I4.0 infrastructure and technologies, and to acquire or develop the skills required to adequately operate a smart factory""
+
+Data security and privacy:
+""Low levels of security and privacy are some of the main barriers to I4.0 adoption due to the risks of cyber-attacks... I4.0 technologies employ cloud storage data, and the online integration of various devices can be vulnerable to unauthorised access or cyber-attacks""​
+
+Lack of standards for technologies (System standardisation):
+""It is essential to create compatible communication and security standards that can be employed by all interconnected equipment and interfaces between systems... relevant information can be lost or inadequately processed, reducing the efficiency of the I4.0 technologies""​
+
+New employee skills:
+""The implementation of I4.0 technologies demands new employee skills and competencies... professionals working in smart factories must have specif | New employee skills
+Data security and privacy
+High Investments
+Lack of infrastructure
+System standardisation
+Organisational resistance
+Job loss
+Government and regulations
+Uncertainties about the financial results
+Quality of data transmission and storage
+Lack of digital strategy
+Need for knowledge management systems
+Need for good internet connections
+Challenges of vertical integration
+Poor knowledge about technology suppliers | nan | nan"
+Developed countries,Developed,Manufacturing Industry,"AI, Big Data, Cloud & Edge Computing, Cybersecurity, IOT & Cyber-physical systems","FINANCE
+SKILLS
+IT
+REGULATORY
+IT SECURITY
+UNCERTAINTY
+INTERNAL
+
+X
+
+Digitalisation and Planning",No,"ii) A lack of skills, including managerial skills; iii) A
+lack of information technology infrastructure, such as a high-speed
+internet connection; iv) Regulatory obstacles; v) IT security issues; vi)
+Uncertainty about future digital standards; and vii) Internal resistance to
+change. | nan | nan | nan"
+Bangladesh,Developing,Food and beverage manufacturing,Industry 4.0 in general,not mentioned,No,"BR1: Lack of awareness of Industry 4.0
+BR2: Lack of infrastructure
+BR3: Financial constraints
+BR4: Lack of management support
+BR5: Lack of government support
+BR6: Availability of cheaper labor
+BR7: Lack of secure standards and norms
+BR8: Low maturity level of preferred technology
+BR9: Lack of adequate skills in the workforce
+BR10: Job disruptions
+BR11: Cybersecurity challenges
+BR12: Uncertainty about economic benefits
+BR13: Poor value chain integration
+BR14: Challenges in data management and data quality
+BR15: Lack of training and domain expertise
+BR16: Lack of digital strategy alongside resource scarcity
+BR17: Lack of stakeholder participation
+BR18: Inequality
+BR19: Employee resistance to change
+BR20: Lack of research and development team | nan | nan | nan"
+Germany,Developed,Solar,Digital Twin,,No,"user accep­tance
+capabilities of the DMs to analyze and interpret the quantitative results (skills)
+knowledge sharing
+integrating internal and external data sources | nan | nan | nan"
+Canada,Developed,Manufacturing Industry,"Condition Monitoring, IOT & Cyber-physical systems",not mentioned,No,"Interference in metallic environments: “The pilot projects…highlighted the interference caused by radio waves (reflection, diffraction) in metallic environments and the difficulty of identifying tags that are not in the reader’s line of sight”​.
+Customized configuration: “The choice of reader location and configuration, as well as the choice of tags, is clearly defined according to the products intended to be located and the operating environment”​
+Coverage and blind spots: “This effect can be attenuated by combining two readers…This tactic would also have allowed for better coverage and detection of equipment in the blind spots observed during our pilot projects”.
+Initial implementation costs: “While the use of batteryless tags that allow for large-scale deployment with no battery replacement…multiplying the number of readers can involve a significant upstream investment”​
+Location accuracy: “In terms of location accuracy, we found that the absolute coordinates returned by the CLAS mi | nan | nan | nan"
+Denmark,Developed,Manufacturing Industry,Industry 4.0 in general,"content knowledge, meta-cognitive knowledge",No,"Dimensão:Content Knowledge
+Second-order theme: Lack of Understanding
+
+Management & employees
+Technology & industry 4.0
+Strategy & Value
+Second-order theme: Data Handling
+
+Data collection with no use
+Low data quality
+Lack of data standards
+Low utilization of current data & equipment
+Outdated software
+Manual data processes
+Second-order theme: Integration Challenges
+
+Low utilization and outdated technology
+Connectivity and communication
+Low or no integration capability
+External factors for integration
+Manual processes
+Dimensão: Meta-cognitive Knowledge
+Second-order theme: Upskilling and Competence Needs
+
+Lack of integration competences
+Digital competences
+Low cybersecurity awareness
+Lack of competences
+Classical operational competences
+Second-order theme: Strategic Management Capabilities
+
+External environment
+Interest but no strategy
+Cautious to change
+Need for business case
+Management of competences
+Change management | nan | nan | nan"
+Iran,Developing,"Chemicals, Food and beverage manufacturing, Manufacturing Industry, Mineral wool production, Various",Industry 4.0 in general,"Organizational Challenges, Governmental Challenges, Technological Challenges",No,"*Organizational Challenges
+OC1: Absence of management support
+Safety problems, poor job performance, absenteeism, and lack of planning affecting management support.
+
+OC2: Absence of organizational labor force management
+No health monitoring to manage productivity during COVID-19.
+
+OC3: Difficulty obtaining technical data, testing standards
+Lack of government subsidy for tools and equipment affecting technical data availability.
+
+OC4: Absence of virtual skills programs
+Includes sudden changes and uncertainties during COVID-19.
+
+OC5: Lack of knowledge sharing/information exchange
+Fast execution actions and information integration are challenging.
+
+OC6: Weak organizational culture for sustainable practices
+Issues in planning, communication, and leadership affecting sustainable practices.
+
+OC7: Lack of review of HR plans/policies for social sustainability
+Absenteeism due to illness impacts sustainability policies. | Lack of employees’ safety and health (OC8):
+Imbalanced demand and supply (OC9)
+Indeterminate return on investments (sanctions/inﬂation) (OC10)
+Weak industrial infrastructures (OC11)
+Distrust among workforces (OC12)
+“Delay in the supply of mate-rials (OC13)
+*Governmental challenges
+Lack of support from the government in the form of regulations and policies (GC14)
+Reduction in labor (GC15):
+Absence of subsidies and incentives (GC16) | *Technological challenges:
+Lack of technology (ICT,IOT) to implement SM in manufacturing industries (TC17)
+Lack of IT infrastructures (TC18)
+High risk of hazards (TC19)
+Lack of any prediction about the ﬂow of potential resources (TC20) | nan"
+Global,Global,Manufacturing Supply chain,Blockchain,"-Interorganizational barriers
+-Industry 4.0 technology barriers
+-Intraorganizational barriers
+-External barriers
+-Social and environmental barriers",No,"Data Transparency (B2):
+""Data transparency remains a critical challenge in the adoption of blockchain technology, as industries view transparency as both an opportunity and a potential risk when transmitting critical information in real-time""​
+
+Lack of Trust (B3):
+""Trust issues in the intra-organizational context include barriers such as lack of trust among stakeholders, leading to difficulties in blockchain implementation""​
+
+Security and Technical Vulnerability (B7):
+""Blockchain technology faces serious barriers related to security and technical vulnerabilities, which can create hesitancy among organizations in fully deploying the technology across their supply chains""​
+
+Legal Uncertainties (B8):
+""Legal uncertainties, particularly those related to smart contracts, are a significant barrier, requiring clear frameworks and government involvement to reduce ambiguity and risk""​
+
+Interoperability (B10):
+""Interoperability between systems remains a key challenge as blockchain networks requir | Lack of Awareness (B1):
+""Awareness gaps, especially among stakeholders, hinder the broader adoption of blockchain technology, requiring significant efforts in education and training""​
+
+Immaturity of Technology (B5):
+""The immaturity of blockchain technology, coupled with limited knowledge of its benefits, contributes significantly to the barriers in its adoption""​
+
+Missing Infrastructure (B9):
+""The lack of adequate infrastructure to support blockchain technology implementation is a major impediment, particularly in less technologically advanced regions""​
+
+Lack of Standardization (B6):
+""A lack of standardization creates technological uncertainty, complicating the implementation process and limiting the scalability of blockchain solutions""​
+​
+Market Competition (B14):
+""High market competition exacerbates challenges in blockchain adoption by intensifying the need for quick and efficient implementation to gain competitive advantage""​ | Financial Constraints (B4):
+""Financial constraints are a persistent barrier, as blockchain projects often require significant investment in infrastructure, training, and operational changes""​
+
+Complex Protocol (B13):
+""The complexity of blockchain protocols poses a substantial barrier, making it challenging for organizations to adopt and integrate them effectively""​
+​
+High Sustainability Costs (B12):
+""The costs associated with sustainable practices in blockchain implementation can be prohibitive, especially for small and medium-sized enterprises""​
+
+Lack of Industry Involvement (B11):
+""The lack of involvement and collaboration among industry players is a significant barrier, requiring innovative governance frameworks to encourage participation"" | nan"
+China,Developing,Manufacturing Supply chain,Blockchain,"Economic barriers
+Environmental barriers
+Organizational barriers
+Social barriers
+Technological barriers
+
+Organizational Barriers
+--Intra-organizational barriers
+--Inter-organizational barriers
+Social Barriers
+Technological Barriers",No,"Political Barriers
+""There are few incentives to adopt blockchain."" (Pol_1)
+""There is no official evaluation standard for enterprises’ sustainability."" (Pol_2)
+""There are no reliable references for blockchain adoption in SSCs."" (Pol_3)
+""There is little government supervision of blockchain adoption in SSCs."" (Pol_4)
+""Lack of regulations or laws that concern data sharing."" (Pol_5)
+Economic Barriers
+""High installation costs."" (Eco_6)
+""High maintenance and administrative costs."" (Eco_7)
+""High production and delivery costs."" (Eco_8)
+""High training costs."" (Eco_9)
+""High integration costs."" (Eco_10)
+""High information sharing costs."" (Eco_11) | Environmental Barriers
+""Blockchain requires significant energy consumption to support an enormous number of transactions."" (Ecology_12)
+Organizational Barriers
+Intra-organizational barriers
+""Resistance from members of the organization."" (Org_intra_13)
+""The lack of support from corporate executives greatly hinders blockchain adoption in SSCs."" (Org_intra_14)
+""The tolerance of new technologies has a significant impact on blockchain usage in enterprises."" (Org_intra_15)
+Inter-organizational barriers
+""Different stakeholder cultures make it difficult for them to coordinate blockchain adoption."" (Org_inter_16)
+""The lack of professional talent also restricts blockchain adoption in SSCs."" (Org_inter_17)
+""Stakeholders in SSCs hold different opinions on blockchain adoption due to the following two points: first, stakeholders in SSCs have diverse goals and sustainability practices. Second, the impact of the information transparency brought about by blockchain varies by stakeholder."" (Org_inter_18 | Technological Barriers
+Data security
+""There are two main data threats associated with the use of blockchain: A 51% Attack and private key security."" (Tech_22)
+Handleability
+""Blockchain-based trading is complicated and fallible. Also, errors are irreversible due to the immutability of the ledger."" (Tech_23)
+Limited storage capacity
+""The blockchain records the log data of each transaction. Numerous participants bring an enormous number of tasks to be performed, which in turn creates great storage requirements."" (Tech_24)
+Scalability
+""Each block in the blockchain carries the complete record of transactions, and each new transaction will be accompanied by a block that is newly added to the ledger."" (Tech_25)
+Permission
+""Blockchain systems are divided into two types: public and private systems. The decision of a blockchain system is affected by the supply chain type."" (Tech_26) | Data immutability
+""Data immutability ensures data authenticity and improves the reliability of SSCs. However, it is problematic that data that have negative effects cannot be modified."" (Tech_27)"
+Iran,Developing,Glass industry,Industry 4.0 in general,"OM (Organizational-Managerial 
+I (Infrastructure
+HC (Human-Cultural
+F (Financial
+RL (Legal and Regulatory
+T (Technical",No,"OM (Organizational-Managerial Challenges)
+OM1: Lack of commitment and support from management for the implementation of Industry 4.0 technologies.
+OM2: Lack of awareness and knowledge of managers about economic, environmental, and social benefits of Industry 4.0 technologies.
+OM3: Lack of vision and strategy (roadmap) for the implementation of Industry 4.0 by top managers.
+OM4: Weakness in research and development activities related to Industry 4.0 implementation.
+OM5: Lack of a digital human resources training and development system.
+I (Infrastructure Challenges)
+I1: Lack of software and hardware infrastructure based on information technology.
+I2: Issues related to the transfer of advanced digital technologies.
+I3: The novelty of the concept of Industry 4.0 and limited experimental and applied research.
+I4: Lack of standard information systems and knowledge management. | HC (Human-Cultural Challenges)
+
+HC1: Lack of skilled and trained workforce in the field of Industry 4.0 technologies.
+HC2: Lack of digital and innovative culture in the organization.
+HC3: Resistance to organizational and process changes.
+HC4: Fear of unemployment and lack of motivation of staff (disruption of jobs).
+
+F (Financial Challenges)
+F1: High investment costs in implementing Industry 4.0 technologies and uncertainty in return on investment.
+F2: Lack of financial support mechanisms by policymakers and the government.
+F3: Lack of budget and financial tools for education, R&D, and digital operations | RL (Regulations-Legal Challenges)
+
+RL1: Cybersecurity issues (information security and privacy).
+RL2: Lack of standards, rules, and regulations, and a general framework in the digital field.
+RL3: Lack of regulatory, legal, and contractual mechanisms.
+
+T (Technical Challenges)
+T1: Lack of coordination and cooperation between supply chain partners.
+T2: Lack of a digital business model and clear framework for implementing Industry 4.0.
+T3: Low level of technology maturity and lack of integration and compatibility between different technologies.
+T4: Lack of integration of supply chain inside and outside the organization | nan"
+Poland,Developed,Shipbuilding Industry,Digital Twin,,No,"High complexity of processes 
+Lack of digital infrastructure
+Resistance to digitalization from employees and management | nan | nan | nan"
+India,Developing,Manufacturing Industry,Industry 4.0 in general,not mentioned,No,"Regulatory challenges (RGC):
+""Regulatory challenges (RGC) appear to be the most important challenge that needs to be tackled first while implementing Industry 5.0""​
+
+Integration with existing systems (IES):
+""Integration with existing systems and Ethical challenges (ETC) emerge as the second and third most important in the category of challenges""
+
+Ethical challenges (ETC):
+""The Ethical challenges occupy the third position in the list of challenges, considering their overall importance in the system""​
+
+Gaps with skill levels (GSL):
+""Industry 5.0 requires high technological expertise and finding the skilled people who can achieve the exact man–machine sync is difficult to achieve and is challenging""​
+
+Data security and privacy (DSP):
+""Since Industry 5.0 requires an enormous amount of data to reduce variability in production, there can be security issues related to data breaches and cyberattacks""​
+
+Cost of integration (COI):
+""Industry 5.0 technologies are expensive to implement, particular | 2.9 Managing system complexity (MSC)
+Since Industry 5.0 works in an integrated environment with human–machine interface, the
+complexity of the system increases. As resilience of a system or a network is adversely
+proportional to complexity, creating resilient systems can be really challenging. This can be
+enhanced by providing flexibility in manufacturing environments. Maintaining a good
+trade-off between flexibility and complexity is required for achieving resilient production
+systems, which emerges as one among the primary targets in Industry 5.0 | nan | nan"
+Brazil,Developing,Footwear industry,"Condition Monitoring, IOT & Cyber-physical systems, Information & Communication Technologies",not mentioned,No,"Signal Interference:
+""Technical constraints such as interference between signals from different antennas, reflections and attenuation generated by the various materials and structures in the environment are factors that should always be considered in information systems applying RFID and Industry 4.0 technologies""​
+
+ high financial investments.
+
+""Inhibitors of Industry 4.0 regarding the lack of technological infrastructure in the firms and the complexity of absorption of the technologies""​ | nan | nan | nan"
+India,Developing,,Industry 4.0 in general,,No,"High Initial Cost (C-1)
+Limited Adaptability of Existing Equipment (C-2)
+Complex Programming (C-3)
+Adaptive Intelligent Decision Making (C-4)
+Cyber Security (C-5)
+Maintenance and Repairs (C-6)
+Lack of Skilled Workforce (C-7)
+Incompatibility with Certain Materials (C-8)
+Resistance to Change (C-9) | nan | nan | nan"
+India,Developing,Food and beverage manufacturing,Industry 4.0 in general,not mentioned,Yes,"High investment cost:
+""Significant initial investments are required to systematise the foundation of Industry 4.0 applications. As the adoption of Industry 4.0 applications does not guarantee an immediate return on investment, some businesses, particularly SMEs, may lack access to financial resources
+
+Infrastructure and incompatibility issues:
+""Several compatibility issues arise when implementing CE, including conflict of interest, awkward business models, inadequate services, lack of network support, and machinery incompatibility
+
+Data safety and security issues:
+""Interlinking devices and technologies may exacerbate security issues... interactions with humans and machines will occur during CE implementation, posing several challenges to ensuring workplace and data safety
+
+Interconnectedness and collaboration issues:
+""Lack of collaboration can impede the implementation of CE principles due to a lack of trust, making it even more challenging to determine when and with whom to collaborat | Lack of technological capability:
+""Inadequate technological infrastructure, insufficient knowledge, and a lack of technological expertise are significant challenges for SMEs. Many SMEs are bound by traditional practices and have limited access to advanced technologies.""
+
+Shortage of affordable technologies:
+""The absence of affordable technologies and the high cost of advanced solutions prevent SMEs from fully adopting CE principles. Many firms lack the financial capability to invest in new technologies."" | Inadequate training and skills:
+""Employees are not adequately trained to handle new technologies, leading to difficulties in maintaining and operating Industry 4.0 applications. A lack of self-learning capability exacerbates this problem.""
+
+Network and communication challenges:
+""SMEs face issues with network connectivity and communication, especially when dealing with multiple vendors across different locations. Poor network infrastructure can hinder the adoption of cloud computing and IoT."" | nan"
+Morocco,Developing,,Industry 4.0 in general,"Dimensions of challenges (if categorized by the authors):
+
+Technological
+Organizational
+Environmental",No,"Organizational barriers: Resistance to change and lack of strategic vision hinder I4.0 adoption.
+Technological readiness: Companies lack sufficient infrastructure and technical expertise for full digital transformation.
+Environmental pressures: Regulations and stakeholder demands push for I4.0 adoption but also create compliance challenges.
+Cost-related issues: High investment requirements for I4.0 technologies pose financial barriers.
+Integration difficulties: Ensuring smooth collaboration between different parts of the supply chain remains challenging. | nan | nan | nan"
+India,Developing,Manufacturing Industry,Industry 4.0 in general,"T (Technological)
+O (Organisational)
+E (Environmental)",No,"-Technological barriers
+Unsafe data storage systems
+The need for large amounts of storage capacity
+Lack of supportive infrastructure (hardware, software)
+Lack of standards including technology and processes
+Lack of real-time control system
+Lack of customized sensors and technologies for steel industry
+Unstable connectivity among ﬁrms
+Ineffective processing, prioritization and analysis of data | -Organisational barriers 
+Resistance by employees and middle management to use industry 4.0 for decarbonisation
+Lack of internet coverage & IT facilities
+Longer learning time due to poor knowledge transfer
+Long payback period for industry 4.0 technologies
+Lack of support of green ﬁnance
+Lack of conscious planning, deﬁning goals, steps and needed resources
+Lack of understanding of implications of Industry 4.0 on decarbonisation
+Lack of appropriate competences and skilled workforce
+Lack of a leader with appropriate skills, competencies and experience
+In adequate organizational structure and process organization | -Environmental barriers
+Slow pace of change in the steel industry
+Lack of stakeholder pressure to minimize waste and increase efﬁciency using industry 4.0
+Lack of Government regulations and guidelines
+Lack of government supports for digitalization
+Lack of competitive pressure in steel industry
+Lack of competitive benchmarking on the applications of industry 4.0 in steel manufacturing | nan"
+India,Developing,Manufacturing Industry,Industry 4.0 in general,"Technological
+(A1)
+Operational
+(A2)
+Organizational
+(A3)
+Managerial (A4)
+Sustainable
+development
+(A5)",No,"Technological (A1)
+Technological development (C1) 
+Lack of IT infrastructure, high initial disposal cost, insufficient network facilities, inadequate recycling technologies, and lack of resources for R&D.
+Complexity in collaboration (C2)-
+Lack of skillset, lack of understanding, and lack of collaboration and data sharing procedure, and limited knowledge about the Industry 4.0 technologies.
+Data securiy and privacy (C3)-
+Data transparency, data theft and lack of data management issues are present in the existing system.
+
+Operational (A2)
+Data management (C4)-
+Lack of data analysis, data mining and cleansing, data and information sharing, lack of effective reverse logistic system, quality compromise of the secondary material and product technology improvement.
+Big data and analytics (C5)-
+Data integration complexity, higher data growth, lack of data analytics, insufficient and data acquisition. | Strategic development (C6) -
+Lack of operational strategies for a sustainable CSC, traditional rules and regulations, poor leadership and management, poor R&D on Industry 4.0 and CSC implementation, and lack of adequate government planning and support.
+Organizational (A3)
+Employment disruption (C7):
+Unemployment and fear of disruption to the existing job by replacing the workforce with machines.
+Collaborative model (C8): Poor organizational culture, lack of collaboration and coordination with supply chain partners, lack of human and machine interaction, and lack of social and ethical policies.
+Decision-making ability (C9): The complex and uncertain nature of CSC needs high decision-making ability to integrate with a smart production system that manages resources sustainably and self-determination, social, and skilled workforce capabilities. | Managerial (A4) 
+Management support (C10):
+Anticipating market demand, lack of top management and stakeholder support, conservative attitude of existing workers, lack of availability of skilled workers, and lack of proficiency to lead digitalization initiatives.
+Analysis and strategy (C11):
+Lack of planning and implementation, ineffective take-back mechanism, lack of information management system, lack of risk management infrastructure, lack of availability of recycling/reuse products and deficiency of circular design strategies.
+Human resource (C12):Lack of competencies, lack of skilled workers and safety facilities for sustainable operation, lack of
+attention towards legal and ethical issues. | Sustainable development (A5)
+Economic (C14):Lack of financial feasibility, lack of economic inducement, and fear of low economic returns
+Environmental (C15):Lack of ecological protocols and massive automation produce adverse impacts on the
+environment, which include huge power expenditure, depletion of natural resources, CO2 emission, and e-waste generation."
+Poland,Developed,"Automotive Sector, Food and beverage manufacturing, Furniture manufacturing",Industry 4.0 in general,"strategic planning, internal processes and infrastructure, standards and security, and human resources​",No,"Strategic Planning (SP)
+Lack of Clarity on Economic Benefits: The economic advantages of implementing Industry 4.0 are unclear due to incomplete integration across the value chain, leading to uncertainty about value capture​
+
+High Investment in I4.0 Implementation: A significant capital investment is required, which is a challenge for smaller firms that may face potential financial losses​
+
+Lack of Digital Culture: A culture supportive of digital transformation is essential for the adoption of Industry 4.0 but is often lacking​
+
+Barriers in Data Management and Data Quality: Managing large amounts of data generated by Industry 4.0 technologies and extracting valuable insights pose significant challenges
+
+Internal Processes and Infrastructure (IPI)
+Difficult Organizational and Process Changes: Adapting to Industry 4.0 technologies often requires significant organizational changes and process adaptations​
+Lack of Understanding and Commitment from Top Management: Management may resist I4.0 | Coordination and cooperation among all the organizational units and partners are necessary for better communication | nan | nan"
+Sri Lanka,Developing,Textile industry,Industry 4.0 in general,"financial barriers, technological barriers, organizational barriers, and operational barriers​",No,"1. Financial Barriers:
+High-cost expenditure for the implementation of I4.0 :It is required a huge amount of money to import sensors and other technological tools covering the whole plant. [...] The requirement of high-cost allocation demotivates the implementation of I4.0 applications.”
+Unclear Return on Investment (ROI): “The organisations should run on profits because some technological improvements can cause losses when compared with the investment.”​
+2. Technological Barriers
+Lack of technical skills and IT literacy for workers:
+Now the industry is in a stage of not needing individual technical skills [...] adapting to high-end technology is hard with low technical skills.”​
+Technological incapability in plants:
+“The manufacturing plants need to be covered with technological capability for an easy installation of modern applications.”​
+3. Organizational Barriers
+Resistance to change:“Old people reject innovations because they are fearful to deal with change. Similarly, adapting pe | 4. Barriers Related to Workforce Concerns:
+Fear of Job Loss:
+""Some respondents are also slightly confused about the probability of having job loss for workers. They added, if the plants make the whole process automated or replace it with robots, it will affect the jobs of workers. Similarly, the workers also have the fear that they will lose their jobs due to automation.""
+Lack of Incentives for Upskilling:
+""There is a concern that organizations are not investing enough in training and motivating the workforce to learn and adapt to I4.0 technologies."" | 5. Practical Barriers:
+Physical Limitations in Existing Plants:
+""Respondents noted that there is a possible issue of installing robots as per requirements, further they are having a doubt about the capability of robots in handling fabrics.""
+Limitations in Current Technology:
+""In addition, there is doubt about replacing the human sense with technology. Further, respondents shared that when applying RFID for fabric products, those products cannot be heated, because it will damage the sensor in it."" | nan"
+Global,Global,,Industry 4.0 in general,"nao sao bem dimensoes, mas categorias, Innovation, Operations management, Quality management, Competitive
+advantage",No,"Desafios
+Satisfactory results
+""Massive data analysis and dissemination of acquired knowledge""​
+.
+
+Add value through technologies
+""Investment in qualified people and process improvement""​
+.
+
+The transition of organizations to a world-class technological model
+""Availability of intellectual and technological capital becomes a differentiator and helps in this process, facilitating the transition of organizations to a world-class technological model, impacting all businesses""​
+.
+
+Quick decision making
+""Knowledge of improvement opportunities facilitates quick decision making, through consolidated data existing in the processes. However, only a consolidated database is not capable of allowing a constant evolution. We reinforce that the integration between different areas, through different technological resources, is more effective for increasing efficiency in the processes""​
+. | Integration between areas, resources and processes
+""A better organizational understanding of the processes facilitates these integrations, fighting human resilience in the face of this new reality, directing towards greater flexibility in the management of complex problems, facilitating the integration between different interfaces""​
+.
+
+Sustainable development
+""The sustainability of processes occurs through the search for balance between available resources and the need to exploit, without extinguishing them""​
+. | Greater assertiveness in identifying bottlenecks and errors in processes
+""Controlling operations, with a focus on maximum efficiency and adding value, takes place with a focus on greater assertiveness in identifying process bottlenecks""​
+Barreiras
+Cost of technological integration
+""Investment in more accessible technologies to break the first barrier""​
+.
+
+Development of new professional skills
+""The greater the application of technologies, the greater the development of skills for these practices; as a consequence, it increases the aggregation of value to products and services, which allows investing in new technologies and more modern processes""​
+.
+. | Resilience of human resources to new technologies
+""Flexibility shows that companies are willing to change and new procedures, necessary for the implementation of Industry 4.0 practices, but they face difficulties due to the barriers imposed by workers, generally induced by the feeling of substitution of their work by machines""​
+.
+
+Integration of processes for Industry 4.0 practices
+""Understanding of the technologies used and how to apply them in the processes""​
+.
+
+Organizational culture
+""The organization must be able to understand the deviations that can occur during this transition phase. For this to happen in a less impactful way in the management of operations, the changes should not be abrupt""​"
+India,Developing,Textile industry,Industry 4.0 in general,not mentioned,No,"unaware-ness about CE–ST adoption (B1),
+ unavailability of generic framework (B2),
+ unavailability of skilled resources (B3),
+ lack of digital infrastructure (B4),
+ lack of capability and motivation(B5), 
+lack of government support and subsidies (B6),
+ lack of knowledge about CE practices(B7),
+ unawareness of adoption policies (B8),
+ lack of acceptability (B9),
+ lack of circular SC design aspects (B10), 
+resistance for cultural change (B11) | nan | nan | nan"
+Spain,Developed,Solar,Digital Twin,not mentioned,Yes,"Integration of different vendor-specific tools into a single, unified platform.
+Lack of a collaborative environment that integrates various engineering disciplines.
+Resistance to adopting simulation technologies due to uncertainty about Return on Investment (ROI)​ | nan | nan | nan"
+Austria,Developed,Construction,"Condition Monitoring, IOT & Cyber-physical systems",not mentioned,No,"“Managing the large amount of data generated from different sensors and departments”
+“Ensuring efficient communication and overall safety on the shop floor”​
+“Handling the small data challenge and a high variety of products” | nan | nan | nan"
+Developing Countries,Developing,Logistic,Industry 4.0 in general,"knowledge gaps, organizational resistance, investment costs, and training inadequacies,",No,"Employee Knowledge Gap:
+
+Employees lack adequate knowledge of Industry 4.0 concepts, which hinders implementation.
+Quote: ""The increase in knowledge about Industry 4.0 is accompanied by an increase in the level of the employees' preparation for these challenges.""
+Resistance to Change:
+
+Employees feel threatened by potential job loss due to automation and technological changes.
+Quote: ""Employees fear they may lose their job due to the automation of activities or competency gaps.""
+Cost and Resource Allocation:
+
+High initial costs and uncertainty of return on investment for implementing Industry 4.0 technologies.
+Quote: ""The varied opportunities and an increased need for investment make the development of Industry 4.0 a key challenge for the modern economy.""
+Training and Skill Development:
+
+Insufficient training initiatives, especially in Poland, where 51% of companies do not plan any activities for skill improvement.
+Quote: ""There is a need to improve the quality of human capital so that | Employee Knowledge Gap (Continuação)
+""Many jobs will be lost, but on the other hand, new jobs will be created in other areas. Nevertheless, these new opportunities will most likely require highly skilled, innovative, and dynamic workers.
+Resistance to Change (Continuação)
+""Employed people feel threatened, and they fear they may lose their job due to the automation of activities or due to competency gaps""​ | Cost and Resource Allocation (Continuação)
+""These varied opportunities, a wide range of changes, and an increased need for investment make the development of Industry 4.0 a key challenge for the modern economy""​
+.
+Training and Skill Development (Continuação)
+""Employees should have highly developed communication skills, be focused on precise task completion, and be able to work both autonomously and in a team. They should also be open to exchange and sharing of knowledge and experience""​
+. | nan"
+Australia,Developed,,IOT & Cyber-physical systems,not mentioned,No,"Investment cost:
+
+""The principal obstacle to IoT adoption cited by 11 retailers was investment cost.""
+Lack of management vision:
+
+""Six managers also discussed a perceived lack of management vision in IoT adoption.""
+Employee resistance:
+
+""Six cited employee resistance to change.""
+""Six participants cited staff members fearing technology as an obstacle."" | ack of standardization:
+
+""Four retailers cited the issue of not being able to integrate systems due to a lack of standardisation.""
+Interoperability issues between systems:
+
+""Five participants identified not having access to the systems of SC partners as a challenge.""
+Unwillingness to share data with supply chain partners:
+
+""Ten retailers indicated that they analyse data in-house and share findings with SC partners: 'We don't share data with our supply chain partners, we just share the outcome.' "" | Security and privacy concerns:
+
+""Privacy and security issues were raised by 6, particularly in relation to consumer apps.""
+Finding time to learn and understand new technologies:
+
+""Six participants attributed particular significance to resistance from older workers: 'Sometimes they try to avoid using this, especially if they are a bit older.' "" | nan"
+Norway,Developed,Petroleum industry,Industry 4.0 in general,"Human Challenges, Organizational Challenges",Yes,"Human Challenges:
+Resistance to Change:
+""Opposition to change because people feel that their position is threatened... will complicate such introduction and the necessary changes to work processes.""
+
+Lack of Digital Competence:
+ ""Differences in the way onshore and offshore personnel develop their expertise will widen, leading to a wider competence gap... creating HSE (Health, Safety, and Environment) challenges and demanding attention.""
+
+Job Security Concerns:
+ ""Much of the industry’s digitalization attention is directed towards moving jobs from sea to shore... One consequence of this is greater job insecurity."" | Trust in Technology:
+ ""Lack of trust in the technology can also be a barrier to digitalization... Building up the necessary trust calls for more testing and involvement of employees and users.""
+
+Alienation:
+""People required to take critical decisions risk being alienated and no longer have a full overview of vulnerabilities.""
+
+Insecurity and Resistance to Change:
+""Participants report that it can be challenging to convince employees that they will be doing other tasks while simultaneously creating a sense of security.""
+
+Competence Requirements:
+ ""Changes in the content and conduct of work entail the need to update knowledge and expertise... This concerns the need for a strategic perspective on technology and decisions related to implementation and management."" | Leadership Commitment:
+""Developing the digital expertise of managers will be important... for the industry’s ability to achieve a mutual evolution of technology as well as work processes and organization.""
+
+Distributed Work and Interaction:
+ ""A key aspect associated with digitalization is transferring people from sea to shore... A related issue given emphasis is that developing and implementing new decision-support systems call for adapting/changing work processes.""
+
+cultural Barriers:
+""Participants described the sector in general and its management culture in particular as conservative, which affects both knowledge about and attitudes to technology development."" | Complexity and Absorbability:
+""The level of complexity is high in technology, work processes, and organizational conditions... Adapting to different demands and wishes from partners can be challenging.""
+
+Barriers to Technology Adoption:
+ ""Structural factors in the industry, power structures, and business models represent key barriers to developing and/or adopting available technology.""
+
+Changes in Roles, Structures, and Responsibilities:
+""Such a trend presents problems for aspects like the division of responsibility and ownership... The interfaces between actors become more unclear.""
+
+Strategic Integration:
+""Attention is also called to the difficulty of striking a balance between technological progress in small steps and an overarching, integrated, and strategic approach to modernization through the use of digital technology"
+Italy,Developed,Food and beverage manufacturing,Digital Twin,"Process, Technology, Economic and financial, Reg­
+ulations and market, and Culture and organization)",No,"Process
+B1. Lack of holistic approach
+
+B2. Lack of consensus about standard solutions
+
+B3. Lack of cooperation among business partners
+
+B4. Increase in SC complexity
+
+B5. Lack of awareness about the “End-of-Life (EOL)” activities
+
+B6. Lack of control over the whole SC (Closed-loop control) | Technology
+B7. Low infrastructure serving CE and IT infrastructure
+
+B8. Low perceived quality of recycled products
+
+B9. Low readiness level and poor IT infrastructure
+
+B10. Lack of a strategy-technology alignment
+
+B11. Absence of enough advanced technologies commercially available
+
+B12. Increase in data volume and complexity
+
+B13. Lack of digital continuity
+
+B14. Lack of reliable data and information
+
+B15. Security of data and connected assets
+
+B16. Lack of I4.0 standards | Economic
+B17. High cost (OPEX)
+
+B18. Quality issues
+
+B19. Increased product complexity
+
+B20. High initial investments
+
+B21. Short-term focus
+
+B22. Financial uncertainty related to I4.0 and CE practices
+
+B23. Lack of integrated TT performance measurement systems
+
+B24. Limited market for Circular BM and innovation capacity | nan"
+Germany,Developed,Manufacturing Supply chain,Cybersecurity,"1 Absence of skilled employees and training, 2 Insufficient strategy to fund cybersecurity, 3 Poorly defined accountability of cybersecurity, 4 Unstandardized Industry 5.0 security policies",No,"1. Absence of skilled employees and training
+
+Sub-challenges:
+
+1.1 Lack of qualified specialists
+
+1.2 Employees’ trouble with new skills
+
+1.3 Insufficient training
+
+2. Insufficient strategy to fund cybersecurity
+
+Sub-challenges:
+
+2.1 Cybersecurity is not recognized as a high-level management issue
+
+2.2 Cybersecurity generates profit, not directly
+
+2.3 Keeping stability between cost and the need for security
+
+3. Poorly defined accountability of cybersecurity
+
+Sub-challenges:
+
+3.1 Procurement contracts have less planning
+
+3.2 Lacking liability-related law
+
+3.3 Huge variety of stakeholders | 4. Unstandardized Industry 5.0 security policies
+
+Sub-challenges:
+
+4.1 Different policies in branches of large manufacturing organizations
+
+4.2 Lack of systemic way
+
+4.3 Lack of security standards research
+
+5. Supply chain vulnerabilities
+
+Sub-challenges:
+
+5.1 More interdependent supply chain
+
+5.2 Different degrees of cybersecurity in the supply chain
+
+5.3 Lack of proper scaling when considering supplier cybersecurity
+
+6. Deficiency in interoperability and common communication language
+
+Sub-challenges:
+
+6.1 Tough to secure integration of several devices
+
+6.2 Hard to ensure a common baseline of security among devices, platforms, and frameworks
+
+6.3 Interconnectivity between Industry 5.0 devices and legacy systems is challenging | 7. Embedded technical constraints
+
+Sub-challenges:
+
+7.1 No proper monitoring system
+
+7.2 Few consider advanced encryption or authentication
+
+7.3 Old devices and techniques are less ideal for cybersecurity
+8. Insufficient government patronization
+
+Sub-challenges:
+
+8.1 Lack of law to ensure cybersecurity
+
+8.2 Insufficient funding for research and development projects
+
+8.3 Lack of response to a hacking incident | 9. Non-availability of cybersecurity curriculum in education
+
+Sub-challenges:
+
+9.1 Inadequate collaboration between industry and university
+
+9.2 Absence of planning commission to reshape curriculum
+
+9.3 Cybersecurity course is not compulsory
+
+0. Emergent cybersecurity trends
+
+Sub-challenges:
+
+10.1 Growing cyberattacks
+
+10.2 Lack of proper cybersecurity updates
+
+10.3 Flexibility of cybersecurity structure"
