@@ -61,6 +61,12 @@ with col2:
     fig2 = px.bar(chart_data2, x='Contagem', y='País', orientation='h', title="Desafios por País")
     st.plotly_chart(fig2, use_container_width=True)
 
+# Novo gráfico: desafios por tecnologia
+chart_data3 = filtered_df['Technology'].value_counts().reset_index()
+chart_data3.columns = ['Tecnologia', 'Contagem']
+fig3 = px.bar(chart_data3, x='Contagem', y='Tecnologia', orientation='h', title="Desafios por Tecnologia")
+st.plotly_chart(fig3, use_container_width=True)
+
 # Agrupar por desafio racionalizado
 grouped = filtered_df.groupby('Title')
 
